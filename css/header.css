@@ -41,10 +41,10 @@ body {
 }
 
 .brand-logo img {
-  position: absolute;
+  /* position: absolute; */
   top: -48px;
   left: 0;
-  height: 120px;
+  height: auto;
   width: auto;
 }
 

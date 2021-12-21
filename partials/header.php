@@ -76,29 +76,26 @@
       </div>
     </div>
   </div>
-<nav class=" container navbar">
-        <!-- <div class="brand-title"> -->
-        <div class="brand-logo">
-          <a class = "logo" href="#"><img src="./images/logo.png" alt="Logo"></a>
-        </div>
-        <a href="#" class="toggle-button">
-          <span class="bar"></span>
-          <span class="bar"></span>
-          <span class="bar"></span>
-        </a>
-        <div class="navbar-links">
-          <ul>
-            <li><a href="index.php">Home</a></li>
-            <li><a href="about.php">About Us</a></li>
-            <li><a href="./services.php">Our Services</a></li>
-            <li><a href="study-abroad.php">Abroad Study</a></li>
-            <li><a href="contact.php">Contact</a></li>
-
-          </ul>
-        </div>
-      </nav>
-
-      <script>
+  <nav class="container navbar">
+    <div class="brand-logo">
+      <a class="logo p-5" href="#"><img src="./images/logo.png" alt="Logo"></a>
+    </div>
+    <a href="#" class="toggle-button">
+      <span class="bar"></span>
+      <span class="bar"></span>
+      <span class="bar"></span>
+    </a>
+    <div class="navbar-links">
+      <ul>
+        <li><a href="index.php">Home</a></li>
+        <li><a href="about.php">About Us</a></li>
+        <li><a href="./services.php">Our Services</a></li>
+        <li><a href="study-abroad.php">Abroad Study</a></li>
+        <li><a href="contact.php">Contact</a></li>
+      </ul>
+    </div>
+  </nav>
+  <script>
           const toggleButton = document.getElementsByClassName('toggle-button')[0]
 const navbarLinks = document.getElementsByClassName('navbar-links')[0]
 

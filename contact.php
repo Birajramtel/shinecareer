@@ -57,7 +57,7 @@
             </div>
             <br>
     </div>
-    <div class="container footer-social-icon pb-5 bg-primary ">
+    <div class="container footer-social-icon pb-5">
         <h2 class="d-flex justify-content-center"><strong>Our location</strong></h2>
         <div class="row mt-5 mb-2">
             <div class="col-md-4 col-sm-4 single-cta d-flex justify-content-center">

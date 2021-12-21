@@ -12,9 +12,9 @@
             <div class="overlay-content ">
                <div class="content d-flex flex-column justify-content-around">
                     <!-- <span class="mb-5">Since 1990.</span> -->
-                    <h2 class = "mb-5">Since 1990.</h2>
                     <h1 class="tagline">
-                        <span>Best Educational Institute <br> in Nepal</span>
+                        <span>Best Educational Institute <br> in Nepal <br> Since 1990.</span>
+                        <h2></h2>
                     </h1>
                 </div>
                <div class="hero-btn d-flex justify-content-center">
@@ -32,35 +32,35 @@
         <div class="row">
             <div class="col-md-6 d-flex justify-content-around ver-line hor-line">
                 <!-- <div class="row"> -->
-                    <div class="point">
+                    <div class="point p-3">
                         <div class="point-icon">
                             <img src="./images/test_prepration.svg" alt="Test prepration">
                         </div>
-                        <p>Test Preparation</p>
+                        <p class="pt-2">Test Preparation</p>
                     </div>
                     <div class="ver-line"></div>
-                    <div class="point">
+                    <div class="point p-3">
                         <div class="point-icon">
                             <img src="./images/languages.svg" alt="Languages">
                         </div>
-                        <p>Language Classes</p>
+                        <p class="pt-2">Language Classes</p>
                     </div>
                 <!-- </div> -->
             </div>
             <!-- <div class="ver-line"></div> -->
             <div class="col-md-6 d-flex justify-content-around">
-                <div class="point">
+                <div class="point p-3">
                     <div class="point-icon">
                         <img src="./images/boook@3x.svg" alt="Books">
                     </div>
-                    <p>Study materials</p>
+                    <p class="pt-2">Study materials</p>
                 </div>
                 <div class="ver-line"></div>
-                <div class="point">
+                <div class="point p-3">
                     <div class="point-icon">
                         <img src="./images/Qa.svg" alt="Question and Answer">
                     </div>
-                    <p>Questions and answer</p>
+                    <p class="pt-2">Questions and answer</p>
                 </div>
             </div>
         </div>
@@ -183,7 +183,7 @@
     <div class="container-lg">
         <div class="row">
             <div class="col-sm-12">
-                <h2>Testimonial</h2>
+                <h2 class="d-flex justify-content-center pt-3 pb-3">Testimonials</h2>
                 <div id="myCarousel" class="carousel slide" data-ride="carousel">
                     <!-- Carousel indicators -->
                     <ol class="carousel-indicators mt-5 pt-5">
