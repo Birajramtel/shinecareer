@@ -1,0 +1,42 @@
+@import './global.scss';
+
+.service-image{
+    img{
+        width: 100%;
+        position: relative;
+    }
+    .overlay{
+        position: absolute;
+        top: 0;
+        right: 0;
+        bottom: 0;
+        left: 0;
+        background: $color-primary;
+        opacity: 0.5;
+    }
+    .overtext{
+        position: absolute;
+        top: 0;
+        right: 0;
+        bottom: 0;
+        left: 0;
+        color: #fff;
+        // text-transform: uppercase;
+        h4{
+            text-align: center;
+            font-weight: bold;
+            font-size: 4em;
+        }
+    }
+}
+
+.service-description{
+    font-weight: 400;
+    text-align: justify;
+    font-size: 24px;
+    .service-exerpt button a{
+        color: #fff;
+    }
+}
+
+@import './abroad-intrest-form.scss'
