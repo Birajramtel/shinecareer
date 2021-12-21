@@ -17,6 +17,9 @@
 <!-- Material Design Bootstrap -->
 <link href="https://cdnjs.cloudflare.com/ajax/libs/mdbootstrap/4.19.1/css/mdb.min.css" rel="stylesheet">
 <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.3/css/all.min.css" integrity="sha512-iBBXm8fW90+nuLcSKlbmrPcLa0OT92xO1BIsZ+ywDWZCvqsWgccV3gFoRBv0z+8dLJgyAHIhR35VZc2oM/gI1w==" crossorigin="anonymous" referrerpolicy="no-referrer" />
+<!-- <link rel="stylesheet" href="https://fonts.googleapis.com/css?family=Open+Sans:300,400,700"> -->
+<link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.0/css/bootstrap.min.css">
+<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css">
 <!-- Custom CSS File -->
 <link rel="stylesheet" href="./css/header.css">
 <link rel="stylesheet" href="./css/indexPage.css">
@@ -27,6 +30,7 @@
 <link rel="stylesheet" href="../css/owl.carousel.min.css">
 <link rel="stylesheet" href="../css/owl.theme.default.css">
 <link rel="stylesheet" href="../css/owl.theme.default.min.css">
+<link rel="stylesheet" href="../css/style.css">
 
 </head>
 

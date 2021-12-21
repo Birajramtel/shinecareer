@@ -26,7 +26,7 @@
                 <p>
                 The decision-making process is always a challenge for new students trying to pursue higher study in abroad. The availability of a wide range of universities, countries and cities make it more confusing. Sometimes, students don’t get any clues about the starting point. We are always ‘at your side’. We listen to you, your dream, course, and destination. We sit together for the profile evaluation, shortlist universities and come up with the best possible options. Feel free to talk to us. 
                 </p>
-                <button type="button" class="btn btn-secondary"><a href="services-single.php">Explore</a></button>
+                <button type="button" class="btn btn-secondary"><a href="student_counselling.php">Explore</a></button>
             </div>
             </div>
         </div>
@@ -49,7 +49,7 @@
                 After you make your mind to study in a particular university and program, we help you throughout the preparation of the paperwork, the admission requirements, and submission of application. 
 Our support doesn’t end there. We will keep pushing you in the preparation of the interviews and the visa process. Our formal responsibility ends only when you reach and settle in your destination. However, that doesn’t imply we will get disconnected. Our help and cooperation will always be with you.
                 </p>
-                <button type="button" class="btn btn-secondary"><a href="services-single.php">Explore</a></button>
+                <button type="button" class="btn btn-secondary"><a href="language_classes.php">Explore</a></button>
             </div>
             </div>
             
