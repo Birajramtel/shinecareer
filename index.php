@@ -1,4 +1,6 @@
+<link rel="stylesheet" href="./css/style.css">
 <?php include("./partials/header.php")?>
+
 
 <section class="hero">
     <div class="hero-img">
@@ -76,7 +78,7 @@
                 </p>
             </div>
             <div class="col-md-4 d-flex justify-content-center">
-                <img class="img-fluid" src="./images/laptop-girl.png" alt="">
+                <img class="img-fluid" src="./images/laptop-girl.png" alt="Laptop and girl">
             </div>
         </div>
     </div>
@@ -88,7 +90,7 @@
                 <img src="./images/abrpad.png" alt="">
                 <div class="side-overlay text-center mx-5 d-flex justify-content-start align-items-center">
                    <div class="flex-wrapper py-3">
-                        <h4>Intrested in Studying Abroad ? </h4>
+                        <h4 class="head_color">Intrested in Studying Abroad ? </h4>
                         <p>Apply here and we will call you back for expert advice and your language classes and other possible assistance</p>
                    </div>
                 </div>
@@ -96,19 +98,19 @@
             <div class="col-md-6 home-page-form">
                 <div class="abroad-form">
                     <div class="jumbotron py-3 text-center">
-                        <h5 class="mb-0">LET US REACH YOU OUT FOR ANY HELP</h5>
+                        <h5 class="mb-0 head_color">LET US REACH YOU OUT FOR ANY HELP</h5>
                         <hr class="mb-0">
                     </div>
                     <form action="">
                         <div class="row">
                             <div class="col-md-6 mb-3">
                                 <!-- <div class="form-group"> -->
-                                <label for="formGroupExampleInput2">Your Name</label>
+                                <label for="formGroupExampleInput2" class="text-white">Your Name</label>
                                 <input type="text" class="form-control" id="formGroupExampleInput2">
                                 <!-- </div> -->
                             </div>
                             <div class="col-md-6 mb-3">
-                                <label for="formGroupExampleInput2">Phone No.</label>
+                                <label for="formGroupExampleInput2" class="text-white">Phone No.</label>
                                 <div class="d-flex">
                                     <select class="browser-default custom-select custom-select-md mb-3 country-width-limiter">
                                         <option selected>Country</option>
@@ -125,12 +127,12 @@
                         <div class="row">
                             <div class="col-md-6 mb-3">
                                 <!-- <div class="form-group"> -->
-                                <label for="formGroupExampleInput2">Your Email</label>
+                                <label for="formGroupExampleInput2" class="text-white">Your Email</label>
                                 <input type="email" class="form-control" id="formGroupExampleInput2">
                                 <!-- </div> -->
                             </div>
                             <div class="col-md-6 mb-3">
-                                <label for="formGroupExampleInput2">Your Preferred Study Destination</label>
+                                <label for="formGroupExampleInput2" class="text-white">Your Preferred Study Destination</label>
                                 <input type="email" class="form-control" id="formGroupExampleInput2">
                             </div>
                         </div>
@@ -138,39 +140,37 @@
                         <div class="row">
                             <div class="col-md-6 mb-3">
                                 <!-- <div class="form-group"> -->
-                                <label for="formGroupExampleInput2">Best time to give you a call ?</label>
+                                <label for="formGroupExampleInput2" class="text-white">Best time to give you a call ?</label>
                                 <input type="text" class="form-control" id="formGroupExampleInput2">
                                 <!-- </div> -->
                             </div>
                             <div class="col-md-6 mb-3">
-                                <label for="formGroupExampleInput2">Preferred mode of counselling</label>
+                                <label for="formGroupExampleInput2" class="text-white">Preferred mode of counselling</label>
                                 <div class="virtualorperson mt-2">
                                     <div class="form-check form-check-inline">
                                         <input type="radio" class="form-check-input" id="materialInline1" name="inlineMaterialRadiosExample">
-                                        <label class="form-check-label" for="materialInline1">In-person</label>
+                                        <label class="form-check-label text-white" for="materialInline1">In-person</label>
                                       </div>
                                       
                                       <!-- Material inline 2 -->
                                       <div class="form-check form-check-inline">
                                         <input type="radio" class="form-check-input" id="materialInline2" name="inlineMaterialRadiosExample">
-                                        <label class="form-check-label" for="materialInline2">Virtual</label>
+                                        <label class="form-check-label text-white" for="materialInline2">Virtual</label>
                                       </div>
                                 </div>
-                                  
                             </div>
                         </div>
-                        
                         <div class="row">
                             <div class="col-12">
                             <!-- <div class="form-group"> -->
-                                <label for="exampleFormControlTextarea2">Any notes</label>
-                                <textarea class="form-control rounded-0 ml-1 mr-5" id="exampleFormControlTextarea2" rows="2"  placeholder = "optional"></textarea>
+                                <label for="exampleFormControlTextarea2" class="text-white">Any notes</label>
+                                <textarea class="form-control rounded-0 ml-1 mr-5" id="exampleFormControlTextarea2" rows="4"  placeholder = "optional"></textarea>
                             <!-- </div> -->
                             </div>
                         </div>
                         <br>
                         <div class="row d-flex justify-content-center">
-                            <button type="button" class="btn btn-unique btn-lg">Submit &nbsp <i class="fas fa-paper-plane"></i></button>
+                            <button type="button" class="btn b_color btn-lg text-white">Submit &nbsp <i class="fas fa-paper-plane"></i></button>
                         </div>
                     </form>
                 </div>
@@ -183,13 +183,13 @@
     <div class="container-lg">
         <div class="row">
             <div class="col-sm-12">
-                <h2 class="d-flex justify-content-center pt-3 pb-3">Testimonials</h2>
+                <h2 class="d-flex justify-content-center pt-3 pb-3 text_color"><strong>Testimonials</strong></h2>
                 <div id="myCarousel" class="carousel slide" data-ride="carousel">
                     <!-- Carousel indicators -->
                     <ol class="carousel-indicators mt-5 pt-5">
-                        <li data-target="#myCarousel" class="bg-secondary" style="color: brown;" data-slide-to="0" class="active"></li>
-                        <li data-target="#myCarousel" class="bg-secondary" style="color: brown;" data-slide-to="1"></li>
-                        <li data-target="#myCarousel" class="bg-secondary" style="color: brown;" data-slide-to="2"></li>
+                        <li data-target="#myCarousel" class="bg-secondary" data-slide-to="0" class="active"></li>
+                        <li data-target="#myCarousel" class="bg-secondary" data-slide-to="1"></li>
+                        <li data-target="#myCarousel" class="bg-secondary" data-slide-to="2"></li>
                     </ol>   
                     <!-- Wrapper for carousel items -->
                     <div class="carousel-inner pb-5">
@@ -389,18 +389,18 @@
             
              <div class="col-md-6 order-md-1 px-0 service-description d-flex align-items-center">
                 <div class="service-exerpt">
-                    <h2><strong>Who are we ?</strong></h2>
+                    <h2 class="text_color"><strong>Who are we ?</strong></h2>
                     <p>
                         Lorem Ipsum is simply dummy text of the printing and typesetting industry. 
                         Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, 
                         when an unknown printer took a galley of type and scrambled it to make a type specimen book.     
                     </p>
-                    <button type="button" class="btn btn-secondary"><a href="services-single.php">Explore</a></button>
+                    <button type="button" class="btn b_color"><a href="about.php">Explore</a></button>
                 </div>
             </div>
             <div class="col-md-6 order-md-12 service-description d-flex align-items-end">
                 <div class="service-image">
-                    <iframe width="550" height="200" src="https://www.youtube.com/embed/nWwpyclIEu4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+                    <iframe width="550" height="260" src="https://www.youtube.com/embed/nWwpyclIEu4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
                 </div>
             </div>
         </div>
@@ -414,13 +414,13 @@
             </div>
             <div class="col-md-6 service-description d-flex align-items-center">
                 <div class="service-exerpt">
-                    <h2><strong>What we do?</strong></h2>
+                    <h2 class="text_color p-0"><strong>What we do?</strong></h2>
                     <p>
                         Lorem Ipsum is simply dummy text of the printing and typesetting industry. 
                         Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, 
                         when an unknown printer took a galley of type and scrambled it to make a type specimen book.     
                     </p>
-                    <button type="button" class="btn btn-secondary"><a href="services-single.php">Explore</a></button>
+                    <button class="btn b_color"><a href="about.php">Explore</a></button>
                 </div>
             </div>
         </div>
@@ -431,16 +431,16 @@
 <!-- News and Events section opened  -->
 <section>
     <div class="containter d-flex justify-content-center">
-        <h2><strong>News and Events</strong></h2>
+        <h2 class="text_color"><strong>News and Events</strong></h2>
     </div>
     <div class="container mb-5">
         <div class="card-deck">
             <div class="card">
                 <img class="card-img-top" src="./images/news-and_events/news_events_1.png" alt="News and Events 1">
                 <div class="card-body">
-                    <h5 class="card-title text-center">Seminar ..</h5>
+                    <h5 class="card-title text_color text-center">Seminar ..</h5>
                     <p class="card-text">This is a longer card with supporting text below as a natural lead-in to additional content. This content is a little bit longer.
-                    <button class="btn btn-sm btn-primary float-right">Explore</button></p>
+                    <button class="btn b_color text-white float-right"><strong>Explore</strong></button></p>
                     <p class="card-text"><small class="text-muted">2022-04-18 &nbsp;|&nbsp; <a href="index.php"><u>Events</u></a></small></p>
                 </div>
             </div>
@@ -449,7 +449,7 @@
                 <div class="card-body">
                     <h5 class="card-title text-center">Event..</h5>
                     <p class="card-text">This is a longer card with supporting text below as a natural lead-in to additional content. This content is a little bit longer.
-                    <button class="btn btn-sm btn-primary float-right">Explore</button></p>
+                    <button class="btn b_color text-white float-right"><strong>Explore</strong></button></p>
                     <p class="card-text"><small class="text-muted">2022-04-18 &nbsp;|&nbsp; <a href="index.php"><u>Events</u></a></small></p>
                 </div>
             </div>
@@ -458,7 +458,7 @@
                 <div class="card-body">
                     <h5 class="card-title text-center">Blogs...</h5>
                     <p class="card-text">This is a longer card with supporting text below as a natural lead-in to additional content. This content is a little bit longer.
-                    <button class="btn btn-sm btn-primary float-right">Explore</button></p>
+                    <button class="btn b_color text-white float-right"><strong>Explore</strong></button></p>
                     <p class="card-text"><small class="text-muted">2022-04-18 &nbsp; | &nbsp; <a href="index.php"><u> Blog</u></a></small></p>
                 </div>
             </div>
@@ -467,7 +467,7 @@
                 <div class="card-body">
                     <h5 class="card-title text-center">News...</h5>
                     <p class="card-text">This is a longer card with supporting text below as a natural lead-in to additional content. This content is a little bit longer.
-                    <button class="btn btn-sm btn-primary float-right">Explore</button></p>
+                    <button class="btn b_color text-white float-right"><strong>Explore</strong></button></p>
                     <p class="card-text"><small class="text-muted">2022-04-18 &nbsp; | &nbsp; <a href="index.php"><u> News</u></a></small></p>
                 </div>
             </div>
@@ -476,16 +476,16 @@
 </section>
 <!-- News and Events section Closed  -->
 <!-- Receive a call opened -->
-<section class="container d-flex justify-content-center bg-warning mb-2">
+<section class="container d-flex justify-content-center bg-warning mb-4">
     <div class="">
-        <h2 class="pt-3 pb-4"><strong>Receive an Assitance Call / Email</strong></h2>
+        <h2 class="pt-3 text_color"><strong>Receive an Assitance Call / Email</strong></h2>
         <div class="form-check form-check-inline pb-4">
             <input class="form-check-input" type="radio" name="inlineRadioOptions" id="inlineRadio1" value="option1">
-            <label class="form-check-label" for="inlineRadio1"checked>Phone Number:</label>
+            <label class="form-check-label text_color" for="inlineRadio1"checked>Phone Number:</label>
         </div>
         <div class="form-check form-check-inline">
             <input class="form-check-input" type="radio" name="inlineRadioOptions" id="inlineRadio2" value="option2">
-            <label class="form-check-label" for="inlineRadio2">Email:</label>
+            <label class="form-check-label text_color" for="inlineRadio2">Email:</label>
         </div>
         <div>   
             <input type="text" id="fname" name="fname">

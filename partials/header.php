@@ -30,7 +30,7 @@
 <link rel="stylesheet" href="../css/owl.carousel.min.css">
 <link rel="stylesheet" href="../css/owl.theme.default.css">
 <link rel="stylesheet" href="../css/owl.theme.default.min.css">
-<link rel="stylesheet" href="../css/style.css">
+<link rel="stylesheet" href="./css/style.css">
 
 </head>
 
@@ -46,10 +46,10 @@
 
           <div class="col-lg-offset-2"></div>
           <div class="col d-flex justify-content-end">
-            <a href="tel: 01-947594"><i class="fas fa-phone-alt"></i>01-947594/+97728938475</a>
+            <a href="tel: 01-947594"><i class="fas fa-phone-alt text_color"></i>01-947594/+97728938475</a>
           </div>
           <div class="col flex-center">
-          <a href="mailto:contact@sewatech.com.np"><i class="fas fa-envelope"></i> mail.consult@consult.com</a>
+          <a href="mailto:contact@sewatech.com.np"><i class="fas fa-envelope text_color"></i> mail.consult@consult.com</a>
           </div>
 
           <!-- <div class="col-md-1 offset"></div>
@@ -61,14 +61,14 @@
         <div class="row">
           <div class="col d-flex justify-content-center">
               <div class="social-handles">
-                <span><a href="#"><i class="fab fa-facebook"></i></a></span>
-                <span><a href="#"><i class="fab fa-twitter"></i></a></span>
-                <span><a href="#"><i class="fab fa-linkedin-in"></i></a></span>
-                <span><a href="#"><i class="fab fa-instagram"></i></a></span>
+                <span><a href="#"><i class="text_color fab fa-facebook"></i></a></span>
+                <span><a href="#"><i class="text_color fab fa-twitter"></i></a></span>
+                <span><a href="#"><i class="text_color fab fa-linkedin-in"></i></a></span>
+                <span><a href="#"><i class="text_color fab fa-instagram"></i></a></span>
               </div>
           </div>
           <div class="col">
-            <button type="button" class="btn btn-indigo py-2 btn-rounded text-white">Apply Online</button>
+            <button type="button" class="btn button_color py-2 btn-rounded text-white">Apply Online</button>
           </div>
         <!-- <div class="col-md-4 d-flex align-items-end">fb, lkndn, Twr, utube</div>
         <div class="col-md-1">Apply online</div> -->
@@ -96,10 +96,10 @@
     </div>
   </nav>
   <script>
-          const toggleButton = document.getElementsByClassName('toggle-button')[0]
-const navbarLinks = document.getElementsByClassName('navbar-links')[0]
+      const toggleButton = document.getElementsByClassName('toggle-button')[0]
+      const navbarLinks = document.getElementsByClassName('navbar-links')[0]
 
-toggleButton.addEventListener('click', () => {
-  navbarLinks.classList.toggle('active')
-})
-      </script>
+      toggleButton.addEventListener('click', () => {
+        navbarLinks.classList.toggle('active')
+      })
+  </script>
