@@ -133,7 +133,7 @@
             </div>
 <br>
         <div class="row d-flex justify-content-center">
-            <button type="button" class="btn btn-unique btn-lg">Send &nbsp <i class="fas fa-paper-plane"></i></button>
+            <button type="button" class="btn btn-unique btn-lg text-white">Send &nbsp <i class="fas fa-paper-plane"></i></button>
         </div>
 
         </form>

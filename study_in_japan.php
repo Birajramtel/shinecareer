@@ -3,7 +3,7 @@
 <section class="main-breadcrumb">
     <div class="container px-0">
         <div class="page-breadcrumb">
-            <h4><span>Home</span> > <span>Our Services</span> > <span>Student Counselling</span></h4>
+            <h4><span>Home</span> > <span>Abroad Study</span> > <span>Study in Japan</span></h4>
         </div>
     </div>
 </section>
@@ -16,9 +16,9 @@
                     Quick topics
                     <hr>
                     <ul>
-                        <li><a href="#">Japanese Language and test</a></li>
-                        <li><a href="#">preparation classes</a></li>
-                        <li><a href="#">Korean Language</a></li>
+                        <li><a href="#">Classes</a></li>
+                        <li><a href="#">Study materials</a></li>
+                        <li><a href="#">Online materials</a></li>
                         <li><a href="#">Test Preparation</a></li>
                     </ul>
                     
@@ -142,82 +142,10 @@ The mastering of Japanese language listening is rendered with this course. The l
                 </div>
             </div>
         </div>
-        
-        <div class="row">
-            <h3>Korean Language </h3>
-            <p>TOPIK, Test of Proficiency in Korean, is a written test designed to measure the ability of non-native speakers for expression and comprehension in the Korean language. It aims to promote the Korean language by officially evaluating non-native Korean language speakers’ language proficiency. </p>
-            <p>TOPIK test measures proficiency in reading, writing, and listening comprehension in the Korean language.  The test has three different levels: Beginner, Intermediate and Advanced.  Further accuracy is expressed through six grades, two matched to each level to evaluate proficiency.</p>
-            <p>TOPIK result is valid for next two years from the time of test result announcement.
-                Major Use of Test Results</p>
-                <ul>
-                    <li>serving as admission and graduation standard for universities in Korea.</li>
-                    <li>applying for companies and public institutions in Korea and abroad.</li>
-                    <li>obtaining Visa for qualifications of permanent residency and employment, etc.</li>
-                    <li>taking courses under Global Korean Scholarship (GKS) Program.</li>
-                    <li>serving as substitute credits and requirements of graduation for Korean majors in overseas universities.</li>
-                </ul>
-        </div>
-
-        <div class="row">
-            <h3>English Language </h3>
-            <p>Besides test preparation classes for English, i.e. IELTS, TOEFL and PTE, Career Achievers Consultancy also runs classes for English learners. Our experienced teachers are always committed to make you fly high. We have for basic, intermediate, and advance level English classes for those who want to achieve better proficiency and command over English language. </p>
-            <p>We offer distinct courses on: </p>
-            <br>
-            <ol type = "a">
-                <li>speaking</li>
-                <li>writing </li>
-                <li>listening </li>
-                <li>speaking </li>
-            </ol>
-        </div>
-    </div>
-</section>
-<!-- Related services section opened -->
-<section>
-    <div class="containter d-flex justify-content-center">
-        <h2><strong>Related Services</strong></h2>
-    </div>
-    <div class="container mb-5">
-        <div class="card-deck">
-            <div class="card">
-                <img class="card-img-top" src="./images/related_services/Related_services_1.png" alt="Related Services 1">
-                <div class="card-body">
-                    <h5 class="card-title text-center">Student Counselling</h5>
-                    <p class="card-text">The decision-making process is always a challenge for new students trying to pursue 
-                        higher study in abroad...</p>
-                    <button class="btn btn-sm btn-primary">Know more</button>
-                    <!-- <p class="card-text"><small class="text-muted">2022-04-18 &nbsp;|&nbsp; <a href="index.php"><u>Events</u></a></small></p> -->
-                </div>
-            </div>
-            <div class="card">
-                <img class="card-img-top" src="./images/related_services/Related_services_2.png" alt="Related Services 2">
-                <div class="card-body">
-                    <h5 class="card-title text-center">University Application Process Guidance </h5>
-                    <p class="card-text">After you make your mind to study in a particular university and program, we help you...</p>
-                    <button class="btn btn-sm btn-primary">Know more</button>
-                </div>
-            </div>
-            <div class="card">
-                <img class="card-img-top" src="./images/related_services/Related_services_3.png" alt="Related Services 3">
-                <div class="card-body">
-                    <h5 class="card-title text-center">Language Classes</h5>
-                    <p class="card-text">The decision-making process is always a challenge for new students trying to pursue higher study in abroad...</p>
-                    <button class="btn btn-sm btn-primary">Know more</button>
-                </div>
-            </div>
-            <div class="card">
-                <img class="card-img-top" src="./images/related_services/Related_services_4.png" alt="Related Services 4">
-                <div class="card-body">
-                    <h5 class="card-title text-center">Test Preparation</h5>
-                    <p class="card-text">Nepali students aspiring for abroad study at an English-speaking university will be required to sit...</p>
-                    <button class="btn btn-sm btn-primary">Know more</button>
-                </div>
-            </div>
-        </div>
     </div>
 </section>
 
-<!-- Related services section closed -->
+
 
 <section class="abroad-form mt-5">
     <div class="container">
@@ -280,7 +208,7 @@ The mastering of Japanese language listening is rendered with this course. The l
             </div>
 <br>
         <div class="row d-flex justify-content-center">
-            <button type="button" class="btn btn-unique btn-lg text-white">Send &nbsp <i class="fas fa-paper-plane"></i></button>
+            <button type="button" class="btn btn-unique btn-lg">Send &nbsp <i class="fas fa-paper-plane"></i></button>
         </div>
 
         </form>
@@ -297,7 +225,7 @@ The mastering of Japanese language listening is rendered with this course. The l
                 </p>
             </div>
             <div class="col-md-4">
-                <button type="button" class="btn btn-unique download-btn"><a href="./images/services-1.png" download>Click to download</a></button>
+                <button type="button" class="btn btn-unique download-btn float-right"><a href="./images/services-1.png" download>Click to download</a></button>
             </div>
         </div>
     </div>

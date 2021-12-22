@@ -68,7 +68,7 @@
               </div>
           </div>
           <div class="col">
-            <button type="button" class="btn btn-indigo py-2 btn-rounded">Apply Online</button>
+            <button type="button" class="btn btn-indigo py-2 btn-rounded text-white">Apply Online</button>
           </div>
         <!-- <div class="col-md-4 d-flex align-items-end">fb, lkndn, Twr, utube</div>
         <div class="col-md-1">Apply online</div> -->

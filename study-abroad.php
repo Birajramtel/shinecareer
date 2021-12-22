@@ -19,7 +19,7 @@
                 </div>
                 <p class="title">Study in Japan</p>
                 <div class="overlay"></div>
-                <div class="button"><a href="study-abroad-single.php"> EXPLORE </a></div>
+                <div class="button"><a href="study_in_japan.php"> EXPLORE </a></div>
             <!-- </div> -->
         </div>
         <div class="col-md-6 mb-4 img-container">
@@ -28,7 +28,7 @@
             </div>
             <p class="title">Study in Korea</p>
             <div class="overlay"></div>
-            <div class="button"><a href="study-abroad-single.php"> EXPLORE </a></div>
+            <div class="button"><a href="study_in_japan.php"> EXPLORE </a></div>
         </div>
         <div class="col-md-6  mb-4 img-container">
             <div class="country-img">
@@ -36,7 +36,7 @@
             </div>
             <p class="title">Study in Canada</p>
             <div class="overlay"></div>
-            <div class="button"><a href="study-abroad-single.php"> EXPLORE </a></div>
+            <div class="button"><a href="study_in_japan.php"> EXPLORE </a></div>
         </div>
         <div class="col-md-6  mb-4 img-container">
             <div class="country-img">
@@ -44,7 +44,7 @@
             </div>
             <p class="title">Study in Australia</p>
             <div class="overlay"></div>
-            <div class="button"><a href="study-abroad-single.php"> EXPLORE </a></div>
+            <div class="button"><a href="study_in_japan.php"> EXPLORE </a></div>
         </div>
         <div class="col-md-6  mb-4 img-container">
             <div class="country-img">
@@ -52,7 +52,7 @@
             </div>
             <p class="title">Study in UK</p>
             <div class="overlay"></div>
-            <div class="button"><a href="study-abroad-single.php"> EXPLORE </a></div>
+            <div class="button"><a href="study_in_japan.php"> EXPLORE </a></div>
         </div>
         <div class="col-md-6  mb-4 img-container">
             <div class="country-img">
@@ -60,7 +60,7 @@
             </div>
             <p class="title">Study in India</p>
             <div class="overlay"></div>
-            <div class="button"><a href="study-abroad-single.php"> EXPLORE </a></div>
+            <div class="button"><a href="study_in_japan.php"> EXPLORE </a></div>
         </div>
     </div>
     </div>
@@ -128,7 +128,7 @@
             </div>
 <br>
         <div class="row d-flex justify-content-center">
-            <button type="button" class="btn btn-unique btn-lg">Send &nbsp <i class="fas fa-paper-plane"></i></button>
+            <button type="button" class="btn btn-unique btn-lg text-white">Send &nbsp <i class="fas fa-paper-plane"></i></button>
         </div>
 
         </form>
