@@ -19,7 +19,7 @@
                         Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, 
                         when an unknown printer took a galley of type and scrambled it to make a type specimen book.     
                     </p>
-                    <button type="button" class="btn b_color text-capitalize"><a href="services-single.php">Explore</a></button>
+                    <button type="button" class="btn b_color text-capitalize"><a href="services-single.php">Read more</a></button>
                 </div>
             </div>
             <div class="col-md-6 px-0">
@@ -39,7 +39,7 @@
                         Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, 
                         when an unknown printer took a galley of type and scrambled it to make a type specimen book.     
                     </p>
-                    <button type="button" class="btn b_color text-capitalize"><a href="services-single.php">Explore</a></button>
+                    <button type="button" class="btn b_color text-capitalize"><a href="services-single.php">Read more</a></button>
                 </div>
             </div>
             <div class="col-md-6 order-md-1 service-description d-flex align-items-center">
@@ -58,7 +58,7 @@
                         Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, 
                         when an unknown printer took a galley of type and scrambled it to make a type specimen book.     
                     </p>
-                    <button type="button" class="btn b_color text-capitalize"><a href="services-single.php">Explore</a></button>
+                    <button type="button" class="btn b_color text-capitalize"><a href="services-single.php">Read more</a></button>
                 </div>
             </div>
             <div class="col-md-6 px-0">

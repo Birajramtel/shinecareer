@@ -349,44 +349,9 @@
         </div>
     </div>
 </section>
-<!-- Testimonail section Closed -->
-
-<!-- Learn About us Opened -->
-<!-- <section>
-    <div class="container">
-        <h2>Learn about us</h2>
-    </div>
-    <div class="container mb-5">
-        <div class="row">
-            <div class="col-md-6">
-                <h5><strong>Who we are?</strong></h5>
-                <p>We have won more than 5000 students heart by 
-                    placing them in a right education institution in a right course of study. </p>
-            </div>
-            <div class="d-flex justify-content-end col-md-6">
-                <iframe width="450" height="200" src="https://www.youtube.com/embed/nWwpyclIEu4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-            </div>
-            <div class="col-md-6 d-flex justify-content-start mt-3">
-                <img src="./images/students.png" alt="Our teaching methods">
-            </div>
-            <div class="col-md-6 mt-3">
-                <h5 class=""><strong>What we got?</strong></h5>
-                <p>We have won more than 5000 students heart by 
-                    placing them in a right education institution in a right course of study. 
-                    We have won more than 5000 students heart by placing them in a right education institution 
-                    in a right course of study. We have won more than 5000 students heart by placing them in a 
-                    right education institution in a right course of study. 
-                </p>
-            </div>
-        </div>
-    </div>
-</section> -->
-<!-- Learn About us Closed -->
-
-<section class="services mt-5">
+<section class="services mt-5 pt-5">
    <div class="container">
         <div class="row">
-            
              <div class="col-md-6 order-md-1 px-0 service-description d-flex align-items-center">
                 <div class="service-exerpt">
                     <h2 class="text_color"><strong>Who are we ?</strong></h2>
@@ -399,10 +364,10 @@
                 </div>
             </div>
             <div class="col-md-6 order-md-12 service-description d-flex align-items-end">
-                <iframe width="500" height="200" src="https://www.youtube.com/embed/nWwpyclIEu4" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
-                <div class="service-image">
+                <div class="embed-responsive embed-responsive-16by9">
+                    <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/nWwpyclIEu4" allowfullscreen></iframe>
                 </div>
-            </div>
+            </div>            
         </div>
         <br>
         <div class="row">
@@ -440,7 +405,7 @@
                 <div class="card-body">
                     <h5 class="card-title text_color text-center">Seminar ..</h5>
                     <p class="card-text">This is a longer card with supporting text below as a natural lead-in to additional content. This content is a little bit longer.
-                    <button class="btn b_color text-white float-right text-capitalize"><strong>Explore</strong></button></p>
+                    <button class="btn b_color text-white float-right text-capatalize"><strong>Explore</strong></button></p>
                     <p class="card-text"><small class="text-muted">2022-04-18 &nbsp;|&nbsp; <a href="index.php"><u>Events</u></a></small></p>
                 </div>
             </div>
@@ -449,7 +414,7 @@
                 <div class="card-body">
                     <h5 class="card-title text-center">Event..</h5>
                     <p class="card-text">This is a longer card with supporting text below as a natural lead-in to additional content. This content is a little bit longer.
-                    <button class="btn b_color text-white float-right text-capitalize"><strong>Explore</strong></button></p>
+                    <button class="btn b_color text-white float-right text-capatalize"><strong>Explore</strong></button></p>
                     <p class="card-text"><small class="text-muted">2022-04-18 &nbsp;|&nbsp; <a href="index.php"><u>Events</u></a></small></p>
                 </div>
             </div>
@@ -458,7 +423,7 @@
                 <div class="card-body">
                     <h5 class="card-title text-center">Blogs...</h5>
                     <p class="card-text">This is a longer card with supporting text below as a natural lead-in to additional content. This content is a little bit longer.
-                    <button class="btn b_color text-white float-right text-capitalize"><strong>Explore</strong></button></p>
+                    <button class="btn b_color text-white float-right text-capatalize"><strong>Explore</strong></button></p>
                     <p class="card-text"><small class="text-muted">2022-04-18 &nbsp; | &nbsp; <a href="index.php"><u> Blog</u></a></small></p>
                 </div>
             </div>
@@ -467,7 +432,7 @@
                 <div class="card-body">
                     <h5 class="card-title text-center">News...</h5>
                     <p class="card-text">This is a longer card with supporting text below as a natural lead-in to additional content. This content is a little bit longer.
-                    <button class="btn b_color text-white float-right text-capitalize"><strong>Explore</strong></button></p>
+                    <button class="btn b_color text-white float-right text-capatalize"><strong>Explore</strong></button></p>
                     <p class="card-text"><small class="text-muted">2022-04-18 &nbsp; | &nbsp; <a href="index.php"><u> News</u></a></small></p>
                 </div>
             </div>
