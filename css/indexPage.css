@@ -1,9 +1,9 @@
 .bg-site-primary {
-  background-color: #5A184B;
+  background-color: #02073f;
 }
 
 .text-color-site-primary {
-  color: #5A184B;
+  color: #02073f;
 }
 
 .btn-rounded {
@@ -19,7 +19,7 @@
   padding: .75rem 1rem;
   margin-bottom: 1rem;
   list-style: none;
-  background-color: #5A184B;
+  background-color: #02073f !important;
   border-radius: .25rem;
   color: #fff;
 }
@@ -97,7 +97,7 @@
 }
 
 .side-form .list-group .border button {
-  border: 2px solid #5A184B !important;
+  border: 2px solid #02073f !important;
 }
 
 footer {
@@ -141,7 +141,7 @@ footer .social-handles-footer span i {
 }
 
 footer .social-handles-footer span i:hover {
-  color: #880e4f;
+  color: #fea900;
   cursor: pointer;
 }
 
@@ -160,7 +160,7 @@ section.hero .color-overlay {
   right: 0;
   bottom: 0;
   left: 0;
-  background: #5A184B;
+  background: #02073f;
   opacity: .6;
 }
 
@@ -225,12 +225,12 @@ section.hero .overlay-image {
 
 .hero .overlay-container .overlay-content button a {
   font-weight: bolder;
-  color: #5A184B;
+  color: #02073f;
 }
 
 .hero .overlay-container .overlay-content button:hover {
   color: #fff;
-  background-color: #5A184B;
+  background-color: #02073f;
 }
 
 .hero .overlay-container .overlay-content button:hover a {
@@ -295,11 +295,11 @@ section.hero .overlay-image {
 }
 
 .bg-site-primary {
-  background-color: #5A184B;
+  background-color: #02073f;
 }
 
 .text-color-site-primary {
-  color: #5A184B;
+  color: #02073f;
 }
 
 .btn-rounded {
@@ -315,7 +315,7 @@ section.hero .overlay-image {
   padding: .75rem 1rem;
   margin-bottom: 1rem;
   list-style: none;
-  background-color: #5A184B;
+  background-color: #02073f !important;
   border-radius: .25rem;
   color: #fff;
 }
@@ -393,7 +393,7 @@ section.hero .overlay-image {
 }
 
 .side-form .list-group .border button {
-  border: 2px solid #5A184B !important;
+  border: 2px solid #02073f !important;
 }
 
 footer {
@@ -437,7 +437,7 @@ footer .social-handles-footer span i {
 }
 
 footer .social-handles-footer span i:hover {
-  color: #880e4f;
+  color: #fea900;
   cursor: pointer;
 }
 
@@ -466,7 +466,7 @@ footer .sub-footer {
 }
 
 .home-form .side-overlay .flex-wrapper h4 {
-  color: #02073f;
+  color: #793698;
   font-weight: 700;
 }
 
@@ -480,7 +480,7 @@ footer .sub-footer {
 
 .home-form .home-page-form h5 {
   font-weight: bold;
-  color: #02073f;
+  color: #793698;
 }
 
 .abroad-form {

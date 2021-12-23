@@ -26,7 +26,7 @@
                 <p>
                 The decision-making process is always a challenge for new students trying to pursue higher study in abroad. The availability of a wide range of universities, countries and cities make it more confusing. Sometimes, students don’t get any clues about the starting point. We are always ‘at your side’. We listen to you, your dream, course, and destination. We sit together for the profile evaluation, shortlist universities and come up with the best possible options. Feel free to talk to us. 
                 </p>
-                <button type="button" class="btn btn-secondary"><a href="student_counselling.php">Explore</a></button>
+                <button type="button" class="btn b_color"><a href="student_counselling.php">Explore</a></button>
             </div>
             </div>
         </div>
@@ -49,7 +49,7 @@
                 After you make your mind to study in a particular university and program, we help you throughout the preparation of the paperwork, the admission requirements, and submission of application. 
 Our support doesn’t end there. We will keep pushing you in the preparation of the interviews and the visa process. Our formal responsibility ends only when you reach and settle in your destination. However, that doesn’t imply we will get disconnected. Our help and cooperation will always be with you.
                 </p>
-                <button type="button" class="btn btn-secondary"><a href="language_classes.php">Explore</a></button>
+                <button type="button" class="btn b_color"><a href="language_classes.php">Explore</a></button>
             </div>
             </div>
             
@@ -75,7 +75,7 @@ Our support doesn’t end there. We will keep pushing you in the preparation of 
                     The Career Achievers Consultancy is fully committed to make your foreign stay comfortable and vibrant. That is possible if only you have good command on the language of the country where you are living. We have been running Korean and Japanese language classes for those who want to pursue higher study in Japan or Korea.   
                     </p>
                     
-                    <button type="button" class="btn btn-secondary"><a href="language_classes.php">Explore</a></button>
+                    <button type="button" class="btn b_color"><a href="language_classes.php">Explore</a></button>
                 </div>
             </div>
             
@@ -100,7 +100,7 @@ Our support doesn’t end there. We will keep pushing you in the preparation of 
                 Nepali students aspiring for abroad study at an English-speaking university will be required to sit an English language proficiency test as part of the application. There are various language test options with their own specific features. Click in the given tests to know more about the language tests.  
 We are running preparation classes for IELTS, TOEFL, PTE, SAT, GRE, and GMAT. Language preparation class is never just a formality for us. We take it seriously and make you learn things with the best instructors in the country. As a result, CAC has shone as the most successful and trustworthy language preparation center that fully leverage your language skills. 
                 </p>
-                <button type="button" class="btn btn-secondary"><a href="student_counselling.php">Explore</a></button>
+                <button type="button" class="btn b_color"><a href="student_counselling.php">Explore</a></button>
             </div>
             </div>
             
@@ -112,20 +112,19 @@ We are running preparation classes for IELTS, TOEFL, PTE, SAT, GRE, and GMAT. La
 <section class="abroad-form mt-5">
     <div class="container">
         <div class="jumbotron py-2 text-center">
-            <h3 class="display-4">Interested in Studying Abroad  ?</h3>
-            <i>fill the form below to take our services. We will reach out to you personally.</i>
+            <h3 class="display-4 text_color">Interested in Studying Abroad  ?</h3>
+            <i class="text_color">fill the form below to take our services. We will reach out to you personally.</i>
         </div>
-
         <form action="" class = "pb-4">
             <div class="row">
                 <div class="col-md-6">
                     <!-- <div class="form-group"> -->
-                    <label for="formGroupExampleInput2">Your Name</label>
+                    <label for="formGroupExampleInput2" class="text-white">Your Name</label>
                     <input type="text" class="form-control" id="formGroupExampleInput2">
                     <!-- </div> -->
                 </div>
                 <div class="col-md-6">
-                    <label for="formGroupExampleInput2">Phone No.</label>
+                    <label for="formGroupExampleInput2" class="text-white">Phone No.</label>
                     <div class="d-flex">
                         <select class="browser-default custom-select custom-select-md mb-3 country-width-limiter">
                             <option selected>Country</option>
@@ -138,48 +137,47 @@ We are running preparation classes for IELTS, TOEFL, PTE, SAT, GRE, and GMAT. La
 
                 </div>
             </div>
-<br>
+            <br>
             <div class="row">
                 <div class="col-md-6">
                     <!-- <div class="form-group"> -->
-                    <label for="formGroupExampleInput2">Your Email</label>
+                    <label for="formGroupExampleInput2" class="text-white">Your Email</label>
                     <input type="email" class="form-control" id="formGroupExampleInput2">
                     <!-- </div> -->
                 </div>
                 <div class="col-md-6">
-                    <label for="formGroupExampleInput2">Your Preferred Study Destination</label>
+                    <label for="formGroupExampleInput2" class="text-white">Your Preferred Study Destination</label>
                     <input type="email" class="form-control" id="formGroupExampleInput2">
                 </div>
             </div>
             <br>
             <div class="row">
                 <div class="col-md-6">
-                <label for="formGroupExampleInput2">Service you need</label>
+                <label for="formGroupExampleInput2" class="text-white">Service you need</label>
 
                     <select class="browser-default custom-select">
-                        <option selected>University Application Process Guidence</option>
-                        <option value="1">Language Class</option>
-                        <option value="2">Test Preparation</option>
-                        <option value="3">Student Counselling</option>
+                        <option selected class="text_color">University Application Process Guidence</option>
+                        <option value="1" class="text_color">Language Class</option>
+                        <option value="2" class="text_color">Test Preparation</option>
+                        <option value="3" class="text_color">Student Counselling</option>
                     </select>
                 </div>
                 <div class="col-md-6">
-                    <!-- <label for="exampleFormControlTextarea2">Small textarea</label> -->
-                    <textarea class="form-control rounded-0" id="exampleFormControlTextarea2" rows="3" placeholder = "your message"></textarea>
+                    <label for="exampleFormControlTextarea2" class="text-white">Message</label>
+                    <textarea class="form-control rounded-0" id="exampleFormControlTextarea2" rows="3" placeholder = "Your message..."></textarea>
                 </div>  
             </div>
-<br>
-        <div class="row d-flex justify-content-center">
-            <button type="button" class="btn btn-unique btn-lg text-white">Send &nbsp <i class="fas fa-paper-plane"></i></button>
-        </div>
-
+            <br>
+            <div class="row d-flex justify-content-center">
+                <button type="button" class="btn button_color btn-lg text-white">Send &nbsp <i class="fas fa-paper-plane"></i></button>
+            </div>
         </form>
     </div>
 </section>
 
 <section class="brochure-download my-5">
     <div class="container">
-        <h2><b>Download our <span>Company Brochure</span></b> </h2>
+        <h2 class="text_color"><b>Download our <span>Company Brochure</span></b> </h2>
         <div class="row  my-4">
             <div class="col-md-8">
                 <p>
@@ -187,7 +185,7 @@ We are running preparation classes for IELTS, TOEFL, PTE, SAT, GRE, and GMAT. La
                 </p>
             </div>
             <div class="col-md-4">
-                <button type="button" class="btn btn-unique download-btn"><a href="./images/services-1.png" download>Click to download</a></button>
+                <button type="button" class="btn btn-lg button_color download-btn float-right"><a href="./images/services-1.png" download>Click to download</a></button>
             </div>
         </div>
     </div>

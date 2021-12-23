@@ -23,7 +23,7 @@
                 <div class="input-group mb-3 w-75">
                   <input type="text" class="form-control" placeholder="Your email" aria-label="Recipient's username"
                     aria-describedby="button-addon2" />
-                  <button class="btn btn-light-blue m-0 py-2 px-4" type="button" id="button-addon2" data-mdb-ripple-color="dark">
+                  <button class="btn b_color m-0 py-2 px-4 text-white" type="button" id="button-addon2" data-mdb-ripple-color="dark">
                     Book
                   </button>
                 </div>
