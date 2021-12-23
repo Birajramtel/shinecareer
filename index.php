@@ -7,7 +7,7 @@
         <img src="./images/hero-img.png" class="img-fluid banner-img"alt="">
     <div class="color-overlay"></div>
     <div class="overlay-image">
-            <img src="./images/presenter.png" alt="">
+            <img class="d-none d-md-block img-fluid" src="./images/presenter.png" alt="">
     </div>
     <div class="overlay-container">
         <div class="container">
@@ -29,7 +29,7 @@
 </div>
 </section>
 
-<section class="banner-points">
+<section class="banner-points d-none d-md-block">
     <div class="container">
         <div class="row">
             <div class="col-md-6 d-flex justify-content-around ver-line hor-line">
@@ -63,6 +63,45 @@
                         <img src="./images/Qa.svg" alt="Question and Answer">
                     </div>
                     <p class="pt-2">Questions and answer</p>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
+<section class="bg_color_head d-block d-md-none">
+    <div class="container">
+        <div class="row">
+            <div class="col-md-6 d-flex justify-content-around hor-line">
+                <!-- <div class="row"> -->
+                    <div class="point p-3">
+                        <div class="point-icon">
+                            <img src="./images/test_prepration.svg" alt="Test prepration">
+                        </div>
+                        <p class="pt-2 text-white">Test Preparation</p>
+                    </div>
+                    <!-- <div class="ver-line"></div> -->
+                    <div class="point p-3">
+                        <div class="point-icon">
+                            <img src="./images/languages.svg" alt="Languages">
+                        </div>
+                        <p class="pt-2 text-white">Language Classes</p>
+                    </div>
+                <!-- </div> -->
+            </div>
+            <!-- <div class="ver-line"></div> -->
+            <div class="col-md-6 d-flex justify-content-around">
+                <div class="point p-3">
+                    <div class="point-icon">
+                        <img src="./images/boook@3x.svg" alt="Books">
+                    </div>
+                    <p class="pt-2 text-white">Study materials</p>
+                </div>
+                <!-- <div class="ver-line"></div> -->
+                <div class="point p-3">
+                    <div class="point-icon">
+                        <img src="./images/Qa.svg" alt="Question and Answer">
+                    </div>
+                    <p class="pt-2 text-white">Questions and answer</p>
                 </div>
             </div>
         </div>
