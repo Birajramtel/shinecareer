@@ -405,34 +405,34 @@
                 <div class="card-body">
                     <h5 class="card-title text_color text-center">Seminar ..</h5>
                     <p class="card-text">This is a longer card with supporting text below as a natural lead-in to additional content. This content is a little bit longer.
-                    <button class="btn b_color text-white float-right text-capatalize"><strong>Explore</strong></button></p>
+                    <button class="btn b_color text-white float-right text-capitalize"><strong>Explore</strong></button></p>
                     <p class="card-text"><small class="text-muted">2022-04-18 &nbsp;|&nbsp; <a href="index.php"><u>Events</u></a></small></p>
                 </div>
             </div>
             <div class="card">
                 <img class="card-img-top" src="./images/news-and_events/news_events_1.png" alt="News and Events 2">
                 <div class="card-body">
-                    <h5 class="card-title text-center">Event..</h5>
+                    <h5 class="card-title text_color text-center">Event..</h5>
                     <p class="card-text">This is a longer card with supporting text below as a natural lead-in to additional content. This content is a little bit longer.
-                    <button class="btn b_color text-white float-right text-capatalize"><strong>Explore</strong></button></p>
+                    <button class="btn b_color text-white float-right text-capitalize"><strong>Explore</strong></button></p>
                     <p class="card-text"><small class="text-muted">2022-04-18 &nbsp;|&nbsp; <a href="index.php"><u>Events</u></a></small></p>
                 </div>
             </div>
             <div class="card">
                 <img class="card-img-top" src="./images/news-and_events/news_events_1.png" alt="News and Events 3">
                 <div class="card-body">
-                    <h5 class="card-title text-center">Blogs...</h5>
+                    <h5 class="card-title text_color text-center">Blogs...</h5>
                     <p class="card-text">This is a longer card with supporting text below as a natural lead-in to additional content. This content is a little bit longer.
-                    <button class="btn b_color text-white float-right text-capatalize"><strong>Explore</strong></button></p>
+                    <button class="btn b_color text-white float-right text-capitalize"><strong>Explore</strong></button></p>
                     <p class="card-text"><small class="text-muted">2022-04-18 &nbsp; | &nbsp; <a href="index.php"><u> Blog</u></a></small></p>
                 </div>
             </div>
             <div class="card">
                 <img class="card-img-top" src="./images/news-and_events/news_events_1.png" alt="News and Events 4">
                 <div class="card-body">
-                    <h5 class="card-title text-center">News...</h5>
+                    <h5 class="card-title text_color text-center">News...</h5>
                     <p class="card-text">This is a longer card with supporting text below as a natural lead-in to additional content. This content is a little bit longer.
-                    <button class="btn b_color text-white float-right text-capatalize"><strong>Explore</strong></button></p>
+                    <button class="btn b_color text-white float-right text-capitalize"><strong>Explore</strong></button></p>
                     <p class="card-text"><small class="text-muted">2022-04-18 &nbsp; | &nbsp; <a href="index.php"><u> News</u></a></small></p>
                 </div>
             </div>

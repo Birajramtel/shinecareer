@@ -68,7 +68,7 @@
               </div>
           </div>
           <div class="col">
-            <button type="button" class="btn button_color py-2 btn-rounded text-white text-capitalize">Apply Online</button>
+            <button type="button" class="btn button_color py-2 btn-rounded text-capitalize"><a href="apply_now.php" class="text-white"> Apply Online</a></button>
           </div>
         <!-- <div class="col-md-4 d-flex align-items-end">fb, lkndn, Twr, utube</div>
         <div class="col-md-1">Apply online</div> -->
