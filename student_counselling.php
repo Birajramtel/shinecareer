@@ -13,7 +13,7 @@
         <div class="row d-flex">
         <div class="col-md-4 order-md-12">
                 <div class="topics-box">
-                    <div class="text-center">Quick topics</div> 
+                    <div class="text-center pt-3">Quick topics</div> 
                     <hr>
                     <ul class="pb-4">
                         <li><a href="#" class="text-white">Japanese Language and test</a></li>
@@ -171,42 +171,42 @@ The mastering of Japanese language listening is rendered with this course. The l
 <!-- Related services section opened -->
 <section>
     <div class="containter d-flex justify-content-center">
-        <h2><strong>Related Services</strong></h2>
+        <h2 class="text_color"><strong>Related Services</strong></h2>
     </div>
     <div class="container mb-5">
         <div class="card-deck">
             <div class="card">
                 <img class="card-img-top" src="./images/related_services/Related_services_1.png" alt="Related Services 1">
                 <div class="card-body">
-                    <h5 class="card-title text-center">Student Counselling</h5>
+                    <h5 class="card-title text-center text_color"><strong>Student Counselling</strong></h5>
                     <p class="card-text">The decision-making process is always a challenge for new students trying to pursue 
                         higher study in abroad...</p>
-                    <button class="btn btn-sm btn-primary">Know more</button>
+                    <button class="btn btn-sm button_color text-white">Know more</button>
                     <!-- <p class="card-text"><small class="text-muted">2022-04-18 &nbsp;|&nbsp; <a href="index.php"><u>Events</u></a></small></p> -->
                 </div>
             </div>
             <div class="card">
                 <img class="card-img-top" src="./images/related_services/Related_services_2.png" alt="Related Services 2">
                 <div class="card-body">
-                    <h5 class="card-title text-center">University Application Process Guidance </h5>
+                    <h5 class="card-title text-center text_color"><strong>Application Process Guidance</strong> </h5>
                     <p class="card-text">After you make your mind to study in a particular university and program, we help you...</p>
-                    <button class="btn btn-sm btn-primary">Know more</button>
+                    <button class="btn btn-sm button_color text-white">Know more</button>
                 </div>
             </div>
             <div class="card">
                 <img class="card-img-top" src="./images/related_services/Related_services_3.png" alt="Related Services 3">
                 <div class="card-body">
-                    <h5 class="card-title text-center">Language Classes</h5>
+                    <h5 class="card-title text-center text_color"><strong>Language Classes</strong></h5>
                     <p class="card-text">The decision-making process is always a challenge for new students trying to pursue higher study in abroad...</p>
-                    <button class="btn btn-sm btn-primary">Know more</button>
+                    <button class="btn btn-sm button_color text-white">Know more</button>
                 </div>
             </div>
             <div class="card">
                 <img class="card-img-top" src="./images/related_services/Related_services_4.png" alt="Related Services 4">
                 <div class="card-body">
-                    <h5 class="card-title text-center">Test Preparation</h5>
+                    <h5 class="card-title text-center text_color"><strong>Test Preparation</strong></h5>
                     <p class="card-text">Nepali students aspiring for abroad study at an English-speaking university will be required to sit...</p>
-                    <button class="btn btn-sm btn-primary">Know more</button>
+                    <button class="btn btn-sm button_color text-white">Know more</button>
                 </div>
             </div>
         </div>
@@ -218,20 +218,19 @@ The mastering of Japanese language listening is rendered with this course. The l
 <section class="abroad-form mt-5">
     <div class="container">
         <div class="jumbotron py-2 text-center">
-            <h3 class="display-4">Interested in Studying Abroad  ?</h3>
-            <i>fill the form below to take our services. We will reach out to you personally.</i>
+            <h3 class="display-4 text_color">Interested in Studying Abroad  ?</h3>
+            <i class="text_color">fill the form below to take our services. We will reach out to you personally.</i>
         </div>
-
         <form action="" class = "pb-4">
             <div class="row">
                 <div class="col-md-6">
                     <!-- <div class="form-group"> -->
-                    <label for="formGroupExampleInput2">Your Name</label>
+                    <label for="formGroupExampleInput2" class="text-white">Your Name</label>
                     <input type="text" class="form-control" id="formGroupExampleInput2">
                     <!-- </div> -->
                 </div>
                 <div class="col-md-6">
-                    <label for="formGroupExampleInput2">Phone No.</label>
+                    <label for="formGroupExampleInput2" class="text-white">Phone No.</label>
                     <div class="d-flex">
                         <select class="browser-default custom-select custom-select-md mb-3 country-width-limiter">
                             <option selected>Country</option>
@@ -244,48 +243,47 @@ The mastering of Japanese language listening is rendered with this course. The l
 
                 </div>
             </div>
-<br>
+            <br>
             <div class="row">
                 <div class="col-md-6">
                     <!-- <div class="form-group"> -->
-                    <label for="formGroupExampleInput2">Your Email</label>
+                    <label for="formGroupExampleInput2" class="text-white">Your Email</label>
                     <input type="email" class="form-control" id="formGroupExampleInput2">
                     <!-- </div> -->
                 </div>
                 <div class="col-md-6">
-                    <label for="formGroupExampleInput2">Your Preferred Study Destination</label>
+                    <label for="formGroupExampleInput2" class="text-white">Your Preferred Study Destination</label>
                     <input type="email" class="form-control" id="formGroupExampleInput2">
                 </div>
             </div>
             <br>
             <div class="row">
                 <div class="col-md-6">
-                <label for="formGroupExampleInput2">Service you need</label>
+                <label for="formGroupExampleInput2" class="text-white">Service you need</label>
 
                     <select class="browser-default custom-select">
-                        <option selected>University Application Process Guidence</option>
-                        <option value="1">Language Class</option>
-                        <option value="2">Test Preparation</option>
-                        <option value="3">Student Counselling</option>
+                        <option selected class="text_color">University Application Process Guidence</option>
+                        <option value="1" class="text_color">Language Class</option>
+                        <option value="2" class="text_color">Test Preparation</option>
+                        <option value="3" class="text_color">Student Counselling</option>
                     </select>
                 </div>
                 <div class="col-md-6">
-                    <!-- <label for="exampleFormControlTextarea2">Small textarea</label> -->
-                    <textarea class="form-control rounded-0" id="exampleFormControlTextarea2" rows="3" placeholder = "your message"></textarea>
+                    <label for="exampleFormControlTextarea2" class="text-white">Message</label>
+                    <textarea class="form-control rounded-0" id="exampleFormControlTextarea2" rows="3" placeholder = "Your message..."></textarea>
                 </div>  
             </div>
-<br>
-        <div class="row d-flex justify-content-center">
-            <button type="button" class="btn btn-unique btn-lg text-white">Send &nbsp <i class="fas fa-paper-plane"></i></button>
-        </div>
-
+            <br>
+            <div class="row d-flex justify-content-center">
+                <button type="button" class="btn button_color btn-lg text-white">Send &nbsp <i class="fas fa-paper-plane"></i></button>
+            </div>
         </form>
     </div>
 </section>
 
 <section class="brochure-download my-5">
     <div class="container">
-        <h2><b>Download our <span>Company Brochure</span></b> </h2>
+        <h2 class="text_color"><b>Download our <span>Company Brochure</span></b> </h2>
         <div class="row  my-4">
             <div class="col-md-8">
                 <p>
@@ -293,7 +291,7 @@ The mastering of Japanese language listening is rendered with this course. The l
                 </p>
             </div>
             <div class="col-md-4">
-                <button type="button" class="btn btn-unique download-btn"><a href="./images/services-1.png" download>Click to download</a></button>
+                <button type="button" class="btn btn-lg float-right button_color download-btn"><a href="./images/services-1.png" download>Click to download</a></button>
             </div>
         </div>
     </div>

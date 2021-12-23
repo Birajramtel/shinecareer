@@ -41,11 +41,9 @@ body {
 
 .brand-logo img{
     // position: fixed;
-    position: absolute;
+    // position: absolute;
     top: -48px;
     left: 0;
-    height: 120px;
-    width: auto;
 }
 @media (max-width: 800px) {
     .brand-logo img{

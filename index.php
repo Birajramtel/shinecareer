@@ -2,7 +2,7 @@
 <?php include("./partials/header.php")?>
 
 
-<section class="hero">
+<section class="hero mt-1">
     <div class="hero-img">
         <img src="./images/hero-img.png" class="img-fluid banner-img"alt="">
     <div class="color-overlay"></div>
@@ -90,7 +90,7 @@
                 <img src="./images/abrpad.png" alt="">
                 <div class="side-overlay text-center mx-5 d-flex justify-content-start align-items-center">
                    <div class="flex-wrapper py-3">
-                        <h4 class="head_color">Intrested in Studying Abroad ? </h4>
+                        <h4 class="text_color">Intrested in Studying Abroad ? </h4>
                         <p>Apply here and we will call you back for expert advice and your language classes and other possible assistance</p>
                    </div>
                 </div>
@@ -98,7 +98,7 @@
             <div class="col-md-6 home-page-form">
                 <div class="abroad-form">
                     <div class="jumbotron py-3 text-center">
-                        <h5 class="mb-0 head_color">LET US REACH YOU OUT FOR ANY HELP</h5>
+                        <h5 class="mb-0 text_color">LET US REACH YOU OUT FOR ANY HELP</h5>
                         <hr class="mb-0">
                     </div>
                     <form action="">

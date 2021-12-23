@@ -75,8 +75,8 @@
 <section class="abroad-form mt-5">
     <div class="container">
         <div class="jumbotron py-2 text-center">
-            <h3 class="display-4">Interested in Studying Abroad  ?</h3>
-            <i>fill the form below to take our services. We will reach out to you personally.</i>
+            <h3 class="display-4 text_color">Interested in Studying Abroad  ?</h3>
+            <i class="text_color">fill the form below to take our services. We will reach out to you personally.</i>
         </div>
         <form action="" class = "pb-4">
             <div class="row">

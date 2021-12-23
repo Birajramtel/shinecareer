@@ -22,7 +22,7 @@
                             </div>
                             <div class="col-md-6">
                                 <!-- <div class="form-group"> -->
-                                <label for="formGroupExampleInput2"><strong>Last Name</strong></label>
+                                <label for="formGroupExampleInput2" class="text_color"><strong>Last Name</strong></label>
                                 <input type="text" class="form-control" id="formGroupExampleInput2">
                                 <!-- </div> -->
                             </div>
@@ -31,7 +31,7 @@
                         <div class="row">
                             <div class="col-md-12">
                                 <!-- <div class="form-group"> -->
-                                <label for="formGroupExampleInput2"><strong>Your Email</strong></label>
+                                <label for="formGroupExampleInput2" class="text_color"><strong>Your Email</strong></label>
                                 <input type="email" class="form-control" id="formGroupExampleInput2">
                                 <!-- </div> -->
                             </div>
@@ -39,13 +39,13 @@
                         <br>
                         <div class="row">
                             <div class="col-md-12">
-                                <label for="exampleFormControlTextarea2"><strong>Message</strong></label>
-                                <textarea class="form-control rounded-0" id="exampleFormControlTextarea2" rows="3" placeholder = "Your message"></textarea>
+                                <label for="exampleFormControlTextarea2" class="text_color"><strong>Message</strong></label>
+                                <textarea class="form-control rounded-0" id="exampleFormControlTextarea2" rows="3" placeholder ="Your message.."></textarea>
                             </div>  
                         </div>
                         <br>
                         <div class="row d-flex justify-content-center">
-                            <button type="button" class="btn btn-unique btn-lg text-white">Send &nbsp <i class="fas fa-paper-plane"></i></button>
+                            <button type="button" class="btn b_color btn-lg text-white">Send &nbsp <i class="fas fa-paper-plane"></i></button>
                         </div>
                     </form>
                 </div>
@@ -58,21 +58,21 @@
             <br>
     </div>
     <div class="container footer-social-icon pb-5">
-        <h2 class="d-flex justify-content-center"><strong>Our location</strong></h2>
+        <h2 class="d-flex justify-content-center text_color"><strong>Our location</strong></h2>
         <div class="row mt-5 mb-2">
             <div class="col-md-4 col-sm-4 single-cta d-flex justify-content-center">
-                    <i class="far fa-envelope-open"></i>
+                    <i class="far fa-envelope-open p-1"></i>
                 <div>
                     <a href= "mailto:">
-                        <span class="pt-2 pl-2"><strong class="text-dark">example@gmail.com</strong></span>
+                        <span class="pt-2 pl-2 text_color"><strong>example@gmail.com</strong></span>
                     </a>
                 </div>
             </div>
             <div class="col-md-4 col-sm-4 single-cta d-flex justify-content-center">
-                <a href="tel:98000000"><i class="fas fa-phone-alt"></i>&nbsp;<span class="pt-2"><strong class="text-dark">980-000000</strong></span></a>
+                <a href="tel:98000000"><i class="fas fa-phone-alt"></i>&nbsp;<span class="pt-2 text_color"><strong> 980-000000</strong></span></a>
             </div>
             <div class="col-md-4 col-sm-4 single-cta d-flex justify-content-center">
-            <a href="https://g.page/sewa-tech?share"><i class="fas fa-map-marker-alt"></i>&nbsp;<span class="pt-2"><strong class="text-dark">Address here</strong></span></a>
+            <a href="https://g.page/sewa-tech?share"><i class="fas fa-map-marker-alt"></i>&nbsp;<span class="pt-2 text_color"><strong>Address here</strong></span></a>
             </div>
         </div>
     </div>
@@ -81,20 +81,19 @@
 <section class="abroad-form mt-5">
     <div class="container">
         <div class="jumbotron py-2 text-center">
-            <h3 class="display-4">Interested in Studying Abroad  ?</h3>
-            <i>fill the form below to take our services. We will reach out to you personally.</i>
+            <h3 class="display-4 text_color">Interested in Studying Abroad  ?</h3>
+            <i class="text_color">fill the form below to take our services. We will reach out to you personally.</i>
         </div>
-
         <form action="" class = "pb-4">
             <div class="row">
                 <div class="col-md-6">
                     <!-- <div class="form-group"> -->
-                    <label for="formGroupExampleInput2">Your Name</label>
+                    <label for="formGroupExampleInput2" class="text-white">Your Name</label>
                     <input type="text" class="form-control" id="formGroupExampleInput2">
                     <!-- </div> -->
                 </div>
                 <div class="col-md-6">
-                    <label for="formGroupExampleInput2">Phone No.</label>
+                    <label for="formGroupExampleInput2" class="text-white">Phone No.</label>
                     <div class="d-flex">
                         <select class="browser-default custom-select custom-select-md mb-3 country-width-limiter">
                             <option selected>Country</option>
@@ -111,35 +110,35 @@
             <div class="row">
                 <div class="col-md-6">
                     <!-- <div class="form-group"> -->
-                    <label for="formGroupExampleInput2">Your Email</label>
+                    <label for="formGroupExampleInput2" class="text-white">Your Email</label>
                     <input type="email" class="form-control" id="formGroupExampleInput2">
                     <!-- </div> -->
                 </div>
                 <div class="col-md-6">
-                    <label for="formGroupExampleInput2">Your Preferred Study Destination</label>
+                    <label for="formGroupExampleInput2" class="text-white">Your Preferred Study Destination</label>
                     <input type="email" class="form-control" id="formGroupExampleInput2">
                 </div>
             </div>
             <br>
             <div class="row">
                 <div class="col-md-6">
-                <label for="formGroupExampleInput2">Service you need</label>
+                <label for="formGroupExampleInput2" class="text-white">Service you need</label>
 
                     <select class="browser-default custom-select">
-                        <option selected>University Application Process Guidence</option>
-                        <option value="1">Language Class</option>
-                        <option value="2">Test Preparation</option>
-                        <option value="3">Student Counselling</option>
+                        <option selected class="text_color">University Application Process Guidence</option>
+                        <option value="1" class="text_color">Language Class</option>
+                        <option value="2" class="text_color">Test Preparation</option>
+                        <option value="3" class="text_color">Student Counselling</option>
                     </select>
                 </div>
                 <div class="col-md-6">
-                    <!-- <label for="exampleFormControlTextarea2">Small textarea</label> -->
-                    <textarea class="form-control rounded-0" id="exampleFormControlTextarea2" rows="3" placeholder = "your message"></textarea>
+                    <label for="exampleFormControlTextarea2" class="text-white">Message</label>
+                    <textarea class="form-control rounded-0" id="exampleFormControlTextarea2" rows="3" placeholder = "Your message..."></textarea>
                 </div>  
             </div>
             <br>
             <div class="row d-flex justify-content-center">
-                <button type="button" class="btn btn-unique btn-lg text-white">Send &nbsp <i class="fas fa-paper-plane"></i></button>
+                <button type="button" class="btn button_color btn-lg text-white">Send &nbsp <i class="fas fa-paper-plane"></i></button>
             </div>
         </form>
     </div>
@@ -147,7 +146,7 @@
 
 <section class="brochure-download my-5">
     <div class="container">
-        <h2><b>Download our <span>Company Brochure</span></b> </h2>
+        <h2 class="text_color"><b>Download our <span>Company Brochure</span></b> </h2>
         <div class="row  my-4">
             <div class="col-md-8">
                 <p>
@@ -155,10 +154,11 @@
                 </p>
             </div>
             <div class="col-md-4">
-                <button type="button" class="btn btn-unique download-btn"><a href="./images/services-1.png" download>Click to download</a></button>
+                <button type="button" class="btn btn-lg float-right button_color download-btn"><a href="./images/services-1.png" download>Click to download</a></button>
             </div>
         </div>
     </div>
 </section>
+
 
 <?php include("./partials/footer.php")?>
