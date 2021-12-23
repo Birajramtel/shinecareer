@@ -110,13 +110,20 @@
 
 <section>
     <div class="container">
-        <div class="row mt-3">
+        <div class="row">
             <div class="col-md-8 d-flex align-items-center">
-                <p class = "bold">
-                    Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. 
-                </p>
+                <span class = "bold">
+                    Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis sollicitudin euismod nulla sed 
+                    vulputate. Orci varius natoque penatibus et magnis dis parturient montes, nascetur ridiculus mus. 
+                    Etiam tempus auctor massa vel semper. Curabitur nec erat vel magna sollicitudin tincidunt. 
+                    Suspendisse potenti. Mauris ultrices porta dolor. Vestibulum ante ipsum primis in faucibus 
+                    orci luctus et ultrices posuere cubilia curae; Vivamus posuere quam ipsum, a hendrerit mauris 
+                    fermentum at. Praesent non porttitor ex. In pharetra, est vel facilisis porta, ipsum massa rutrum 
+                    ligula, non consectetur turpis mauris at ex. Vivamus sed libero vel sem euismod pulvinar. Praesent 
+                    sagittis sem at dui cursus pellentesque eu ut lacus. 
+                </span>
             </div>
-            <div class="col-md-4 d-flex justify-content-center">
+            <div class="col-md-4 d-flex justify-content-center ">
                 <img class="img-fluid" src="./images/laptop-girl.png" alt="Laptop and girl">
             </div>
         </div>
@@ -126,7 +133,7 @@
     <div class="container">
         <div class="row">
             <div class="col-md-6 pr-0">
-                <img src="./images/abrpad.png" alt="">
+                <img src="./images/abrpad.png" alt="Study with us">
                 <div class="side-overlay text-center mx-5 d-flex justify-content-start align-items-center">
                    <div class="flex-wrapper py-3">
                         <h4 class="text_color">Intrested in Studying Abroad ? </h4>
