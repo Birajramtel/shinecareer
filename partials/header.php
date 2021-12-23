@@ -68,7 +68,7 @@
               </div>
           </div>
           <div class="col">
-            <button type="button" class="btn button_color py-2 btn-rounded text-white">Apply Online</button>
+            <button type="button" class="btn button_color py-2 btn-rounded text-white text-capitalize">Apply Online</button>
           </div>
         <!-- <div class="col-md-4 d-flex align-items-end">fb, lkndn, Twr, utube</div>
         <div class="col-md-1">Apply online</div> -->
@@ -85,8 +85,8 @@
       <span class="bar"></span>
       <span class="bar"></span>
     </a>
-    <div class="navbar-links">
-      <ul>
+    <div class="navbar-links float-right">
+      <ul class="">
         <li><a href="index.php">Home</a></li>
         <li><a href="about.php">About Us</a></li>
         <li><a href="./services.php">Our Services</a></li>

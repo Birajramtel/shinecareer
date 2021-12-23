@@ -170,7 +170,7 @@
                         </div>
                         <br>
                         <div class="row d-flex justify-content-center">
-                            <button type="button" class="btn b_color btn-lg text-white">Submit &nbsp <i class="fas fa-paper-plane"></i></button>
+                            <button type="button" class="btn b_color btn-lg text-white text-capitalize">Submit &nbsp <i class="fas fa-paper-plane"></i></button>
                         </div>
                     </form>
                 </div>
@@ -395,7 +395,7 @@
                         Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, 
                         when an unknown printer took a galley of type and scrambled it to make a type specimen book.     
                     </p>
-                    <button type="button" class="btn b_color"><a href="about.php">Explore</a></button>
+                    <button type="button" class="btn b_color text-capitalize"><a href="about.php">Explore</a></button>
                 </div>
             </div>
             <div class="col-md-6 order-md-12 service-description d-flex align-items-end">
@@ -420,7 +420,7 @@
                         Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, 
                         when an unknown printer took a galley of type and scrambled it to make a type specimen book.     
                     </p>
-                    <button class="btn b_color"><a href="about.php">Explore</a></button>
+                    <button class="btn b_color text-capitalize"><a href="about.php">Explore</a></button>
                 </div>
             </div>
         </div>
@@ -440,7 +440,7 @@
                 <div class="card-body">
                     <h5 class="card-title text_color text-center">Seminar ..</h5>
                     <p class="card-text">This is a longer card with supporting text below as a natural lead-in to additional content. This content is a little bit longer.
-                    <button class="btn b_color text-white float-right"><strong>Explore</strong></button></p>
+                    <button class="btn b_color text-white float-right text-capitalize"><strong>Explore</strong></button></p>
                     <p class="card-text"><small class="text-muted">2022-04-18 &nbsp;|&nbsp; <a href="index.php"><u>Events</u></a></small></p>
                 </div>
             </div>
@@ -449,7 +449,7 @@
                 <div class="card-body">
                     <h5 class="card-title text-center">Event..</h5>
                     <p class="card-text">This is a longer card with supporting text below as a natural lead-in to additional content. This content is a little bit longer.
-                    <button class="btn b_color text-white float-right"><strong>Explore</strong></button></p>
+                    <button class="btn b_color text-white float-right text-capitalize"><strong>Explore</strong></button></p>
                     <p class="card-text"><small class="text-muted">2022-04-18 &nbsp;|&nbsp; <a href="index.php"><u>Events</u></a></small></p>
                 </div>
             </div>
@@ -458,7 +458,7 @@
                 <div class="card-body">
                     <h5 class="card-title text-center">Blogs...</h5>
                     <p class="card-text">This is a longer card with supporting text below as a natural lead-in to additional content. This content is a little bit longer.
-                    <button class="btn b_color text-white float-right"><strong>Explore</strong></button></p>
+                    <button class="btn b_color text-white float-right text-capitalize"><strong>Explore</strong></button></p>
                     <p class="card-text"><small class="text-muted">2022-04-18 &nbsp; | &nbsp; <a href="index.php"><u> Blog</u></a></small></p>
                 </div>
             </div>
@@ -467,7 +467,7 @@
                 <div class="card-body">
                     <h5 class="card-title text-center">News...</h5>
                     <p class="card-text">This is a longer card with supporting text below as a natural lead-in to additional content. This content is a little bit longer.
-                    <button class="btn b_color text-white float-right"><strong>Explore</strong></button></p>
+                    <button class="btn b_color text-white float-right text-capitalize"><strong>Explore</strong></button></p>
                     <p class="card-text"><small class="text-muted">2022-04-18 &nbsp; | &nbsp; <a href="index.php"><u> News</u></a></small></p>
                 </div>
             </div>
@@ -489,7 +489,7 @@
         </div>
         <div>   
             <input type="text" id="fname" name="fname">
-            <button class="btn btn-success">submit</button>
+            <button class="btn button_color text-white text-capitalize">submit</button>
         </div>
         
     </div>
