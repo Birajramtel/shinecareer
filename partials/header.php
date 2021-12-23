@@ -45,10 +45,10 @@
           <div class="col-md-5">Mail</div> -->
 
           <div class="col-lg-offset-2"></div>
-          <div class="col d-flex justify-content-start">
+          <div class="col d-flex justify-content-end">
             <a href="tel: 01-947594"><i class="fas fa-phone-alt text_color"></i>+9779811111111</a>
           </div>
-          <div class="col d-flex justify-content-end align-item-center">
+          <div class="col d-flex justify-content-center align-item-center">
             <a href="mailto:contact@sewatech.com.np"><i class="fas fa-envelope text_color"></i> mail.consult@gmail.com</a>
           </div>
 
