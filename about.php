@@ -11,7 +11,7 @@
 <section class="services mt-5">
    <div class="container">
         <div class="row mt-2">
-            <div class="col-md-6 service-description mt-0 d-flex align-items-center">
+            <div class="col-md-6 service-description">
                 <div class="service-exerpt">
                     <h2 class="text_color p-0"><strong>Message from our chairman</strong></h2>                    
                     <img class="d-block d-md-none img-fluid" src="./images/Manager.png" alt="What does our manager has to say">
@@ -23,9 +23,9 @@
                     </p>
                 </div>
             </div>
-            <div class="col-md-6 d-flex justify-content-center">
+            <div class="col-md-6 d-flex">
                 <!-- <img src="../images/services-1.png" alt=""> -->
-                <img class="d-none d-md-block" src="./images/Manager.png" alt="What does our manager has to say">
+                <img class="d-none d-md-block img-fluid" src="./images/Manager.png" alt="What does our manager has to say">
             </div>
         </div>
         <div class="row mt-3">
@@ -36,7 +36,7 @@
                     </div>
                 </div>
             </div>
-            <div class="col-md-6 service-description d-flex align-items-center">
+            <div class="col-md-6 service-description">
                 <div class="service-exerpt">
                     <h2 class="text_color p-0"><strong>Who we are?</strong></h2>
                     <img class="d-block d-md-none img-fluid" src="./images/about_us.png" alt="What do we do ?">
@@ -50,7 +50,7 @@
             </div>
         </div>
         <div class="row mt-2">
-            <div class="col-md-6 service-description mt-0 d-flex align-items-center">
+            <div class="col-md-6 service-description mt-0">
                 <div class="service-exerpt">
                     <h2 class="text_color p-0"><strong>What we do?</strong></h2>
                     <img class="d-block d-md-none img-fluid" src="./images/about_us.png" alt="What do we do ?">

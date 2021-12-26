@@ -45,7 +45,7 @@
                         </div>
                         <br>
                         <div class="row d-flex justify-content-center">
-                            <button type="button" class="btn b_color btn-lg text-white">Send &nbsp <i class="fas fa-paper-plane"></i></button>
+                            <button type="button" class="btn b_color text-capitalize btn-lg text-white">Send &nbsp <i class="fas fa-paper-plane"></i></button>
                         </div>
                     </form>
                 </div>

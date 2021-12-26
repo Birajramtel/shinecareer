@@ -129,7 +129,7 @@ The mastering of Japanese language listening is rendered with this course. The l
                                     <option value="2">Offline</option>
                                 </select>
 
-                                <button type="button" class="btn waves-effect btn-block rounded color-site-primary"><a class = "text-color-site-primary" href="#">Help me Study Abroad</a></button>
+                                <button type="button" class="btn waves-effect btn-block rounded color-site-primary text-capitalize"><a class = "text-color-site-primary" href="#">Help me Study Abroad !</a></button>
                             </form>
                         </div>
                     </div>
@@ -151,7 +151,7 @@ The mastering of Japanese language listening is rendered with this course. The l
                     <h5 class="card-title text-center text_color"><strong>Student Counselling</strong></h5>
                     <p class="card-text">The decision-making process is always a challenge for new students trying to pursue 
                         higher study in abroad...</p>
-                    <button class="btn btn-sm button_color text-white">Know more</button>
+                    <button class="btn btn-sm button_color text-white text-capitalize">Know more</button>
                     <!-- <p class="card-text"><small class="text-muted">2022-04-18 &nbsp;|&nbsp; <a href="index.php"><u>Events</u></a></small></p> -->
                 </div>
             </div>
@@ -160,7 +160,7 @@ The mastering of Japanese language listening is rendered with this course. The l
                 <div class="card-body">
                     <h5 class="card-title text-center text_color"><strong>Application Process Guidance</strong> </h5>
                     <p class="card-text">After you make your mind to study in a particular university and program, we help you...</p>
-                    <button class="btn btn-sm button_color text-white">Know more</button>
+                    <button class="btn btn-sm button_color text-white text-capitalize">Know more</button>
                 </div>
             </div>
             <div class="card">
@@ -168,7 +168,7 @@ The mastering of Japanese language listening is rendered with this course. The l
                 <div class="card-body">
                     <h5 class="card-title text-center text_color"><strong>Language Classes</strong></h5>
                     <p class="card-text">The decision-making process is always a challenge for new students trying to pursue higher study in abroad...</p>
-                    <button class="btn btn-sm button_color text-white">Know more</button>
+                    <button class="btn btn-sm button_color text-white text-capitalize">Know more</button>
                 </div>
             </div>
             <div class="card">
@@ -176,7 +176,7 @@ The mastering of Japanese language listening is rendered with this course. The l
                 <div class="card-body">
                     <h5 class="card-title text-center text_color"><strong>Test Preparation</strong></h5>
                     <p class="card-text">Nepali students aspiring for abroad study at an English-speaking university will be required to sit...</p>
-                    <button class="btn btn-sm button_color text-white">Know more</button>
+                    <button class="btn btn-sm button_color text-white text-capitalize">Know more</button>
                 </div>
             </div>
         </div>

@@ -224,6 +224,58 @@
         </div>
     </div>
 </section>
+
+
+<section class="services">
+    <div class="container">
+        <div class="row mt-2">
+            <div class="col-md-6 service-description mt-0">
+                <div class="service-exerpt">
+                    <h2 class="text_color p-0"><strong>Who we are?</strong></h2>
+                    <div class="embed-responsive embed-responsive-16by9 d-block d-md-none">
+                        <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/nWwpyclIEu4" allowfullscreen></iframe>
+                    </div>
+                    <p>
+                        Lorem Ipsum is simply dummy text of the printing and typesetting industry. 
+                        Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, 
+                        when an unknown printer took a galley of type and scrambled it to make a type specimen book. 
+                        Lorem Ipsum is simply dummy text of the printing and typesetting industry. 
+                        <button class="btn b_color text-capitalize float-right"><a href="about.php">Explore</a></button>
+                    </p>
+                </div>
+            </div>
+            <div class="col-md-6 d-flex justify-content-center">
+                <!-- <img src="../images/services-1.png" alt=""> -->
+                    <div class="embed-responsive embed-responsive-16by9 d-none d-md-block">
+                        <iframe class="embed-responsive-item d-none d-md-block img-fluid" src="https://www.youtube.com/embed/nWwpyclIEu4" allowfullscreen></iframe>
+                    </div>
+            </div>
+        </div>
+        <div class="row mt-2">
+            <div class="col-md-6 px-0">
+                <div class="service-image d-flex justify-content-center">
+                    <!-- <img src="../images/services-1.png" alt=""> -->
+                    <img class="d-none d-md-block img-fluid" src="./images/about_us.png" alt="What do we do ?">
+                </div>
+            </div>
+            <div class="col-md-6 service-description">
+                <div class="service-exerpt">
+                    <h2 class="text_color p-0"><strong>What we do?</strong></h2>
+                    <img class="d-block d-md-none img-fluid" src="./images/about_us.png" alt="What do we do ?">
+                    <p class="pt-0 mt-0">
+                        Lorem Ipsum is simply dummy text of the printing and typesetting industry. 
+                        Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, 
+                        when an unknown printer took a galley of type and scrambled it to make a type specimen book.     
+                        Lorem Ipsum is simply dummy text of the printing and typesetting industry. 
+                        Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, 
+                        when an unknown printer took a galley of type and scrambled it to make a type specimen book.     
+                        <button class="btn b_color text-capitalize float-right"><a href="about.php">Explore</a></button>
+                    </p>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
 <!-- Testimonail section started -->
 <section>
     <div class="container-lg">
@@ -395,53 +447,6 @@
         </div>
     </div>
 </section>
-<section class="services">
-    <div class="container">
-        <div class="row mt-2">
-            <div class="col-md-6 service-description mt-0 d-flex align-items-center">
-                <div class="service-exerpt">
-                    <h2 class="text_color p-0"><strong>Who we are?</strong></h2>
-                    <div class="embed-responsive embed-responsive-16by9 d-block d-md-none">
-                        <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/nWwpyclIEu4" allowfullscreen></iframe>
-                    </div>
-                    <p>
-                        Lorem Ipsum is simply dummy text of the printing and typesetting industry. 
-                        Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, 
-                        when an unknown printer took a galley of type and scrambled it to make a type specimen book.     
-                        <button class="btn b_color text-capitalize float-right"><a href="about.php">Explore</a></button>
-                    </p>
-                </div>
-            </div>
-            <div class="col-md-6 d-flex justify-content-center">
-                <!-- <img src="../images/services-1.png" alt=""> -->
-                    <div class="embed-responsive embed-responsive-16by9 d-none d-md-block">
-                        <iframe class="embed-responsive-item d-none d-md-block img-fluid" src="https://www.youtube.com/embed/nWwpyclIEu4" allowfullscreen></iframe>
-                    </div>
-            </div>
-        </div>
-        <div class="row mt-2">
-            <div class="col-md-6 px-0">
-                <div class="service-image d-flex justify-content-center">
-                    <!-- <img src="../images/services-1.png" alt=""> -->
-                    <img class="d-none d-md-block img-fluid" src="./images/about_us.png" alt="What do we do ?">
-                </div>
-            </div>
-            <div class="col-md-6 service-description d-flex align-items-center">
-                <div class="service-exerpt">
-                    <h2 class="text_color p-0"><strong>What we do?</strong></h2>
-                    <img class="d-block d-md-none img-fluid" src="./images/about_us.png" alt="What do we do ?">
-                    <p class="pt-0 mt-0">
-                        Lorem Ipsum is simply dummy text of the printing and typesetting industry. 
-                        Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, 
-                        when an unknown printer took a galley of type and scrambled it to make a type specimen book.     
-                        <button class="btn b_color text-capitalize float-right"><a href="about.php">Explore</a></button>
-                    </p>
-                </div>
-            </div>
-        </div>
-    </div>
-</section>
-
 <!-- News and Events section opened  -->
 <section>
     <div class="containter d-flex justify-content-center">

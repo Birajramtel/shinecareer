@@ -17,7 +17,7 @@
                 <div class="country-img">
                     <img class="img-fluid" src="./images/Japan.png" alt="">
                 </div>
-                <p class="title">Study in<br class="d-block d-md-none">Japan</p>
+                <p class="title">Study in<br class="d-block d-md-none"> Japan</p>
                 <div class="overlay"></div>
                 <div class="button"><a href="study_in_japan.php"> EXPLORE </a></div>
             <!-- </div> -->
@@ -26,7 +26,7 @@
             <div class="country-img">
                 <img class="img-fluid" src="./images/southKorea.png" alt="">
             </div>
-            <p class="title">Study in<br class="d-block d-md-none">Korea</p>
+            <p class="title">Study in<br class="d-block d-md-none"> Korea</p>
             <div class="overlay"></div>
             <div class="button"><a href="study_in_japan.php"> EXPLORE </a></div>
         </div>
@@ -34,7 +34,7 @@
             <div class="country-img">
                 <img class="img-fluid" src="./images/Canada.png" alt="">
             </div>
-            <p class="title">Study in<br class="d-block d-md-none">Canada</p>
+            <p class="title">Study in<br class="d-block d-md-none"> Canada</p>
             <div class="overlay"></div>
             <div class="button"><a href="study_in_japan.php"> EXPLORE </a></div>
         </div>
@@ -42,7 +42,7 @@
             <div class="country-img">
                 <img class="img-fluid" src="./images/Australia.png" alt="">
             </div>
-            <p class="title">Study in<br class="d-block d-md-none">Australia</p>
+            <p class="title">Study in<br class="d-block d-md-none"> Australia</p>
             <div class="overlay"></div>
             <div class="button"><a href="study_in_japan.php"> EXPLORE </a></div>
         </div>
@@ -50,7 +50,7 @@
             <div class="country-img">
                 <img class="img-fluid" src="./images/UK.png" alt="">
             </div>
-            <p class="title">Study in<br class="d-block d-md-none">UK</p>
+            <p class="title">Study in<br class="d-block d-md-none"> UK</p>
             <div class="overlay"></div>
             <div class="button"><a href="study_in_japan.php"> EXPLORE </a></div>
         </div>
@@ -58,7 +58,7 @@
             <div class="country-img">
                 <img class="img-fluid" src="./images/India.png" alt="">
             </div>
-            <p class="title">Study in<br class="d-block d-md-none">India</p>
+            <p class="title">Study in<br class="d-block d-md-none"> India</p>
             <div class="overlay"></div>
             <div class="button"><a href="study_in_japan.php"> EXPLORE </a></div>
         </div>
