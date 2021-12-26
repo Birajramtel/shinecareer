@@ -50,8 +50,8 @@
                     </form>
                 </div>
                 <div class="col-md-6 px-0">
-                    <div class="service-image">
-                    <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3532.743291758804!2d85.34342851506176!3d27.694327982797407!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x39eb193d190665f5%3A0x9b12cdecdef62987!2sSewa%20Tech%20Pvt%20Ltd!5e0!3m2!1sen!2snp!4v1640067818546!5m2!1sen!2snp" width="570" height="300" style="border:0;" allowfullscreen="" loading="lazy"></iframe>
+                    <div class="embed-responsive embed-responsive-16by9">
+                        <iframe src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3532.743291758804!2d85.34342851506176!3d27.694327982797407!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x39eb193d190665f5%3A0x9b12cdecdef62987!2sSewa%20Tech%20Pvt%20Ltd!5e0!3m2!1sen!2snp!4v1640067818546!5m2!1sen!2snp" width="570" height="300" style="border:0;" allowfullscreen="" loading="lazy"></iframe>
                     </div>
                 </div>
             </div>

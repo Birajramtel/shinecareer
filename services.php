@@ -97,8 +97,8 @@ Our support doesn’t end there. We will keep pushing you in the preparation of 
             <div class="col-md-6 service-description d-flex align-items-center order-md-1">
             <div class="service-exerpt">
                 <p>
-                Nepali students aspiring for abroad study at an English-speaking university will be required to sit an English language proficiency test as part of the application. There are various language test options with their own specific features. Click in the given tests to know more about the language tests.  
-We are running preparation classes for IELTS, TOEFL, PTE, SAT, GRE, and GMAT. Language preparation class is never just a formality for us. We take it seriously and make you learn things with the best instructors in the country. As a result, CAC has shone as the most successful and trustworthy language preparation center that fully leverage your language skills. 
+                    Nepali students aspiring for abroad study at an English-speaking university will be required to sit an English language proficiency test as part of the application. There are various language test options with their own specific features. Click in the given tests to know more about the language tests.  
+                    We are running preparation classes for IELTS, TOEFL, PTE, SAT, GRE, and GMAT. Language preparation class is never just a formality for us. We take it seriously and make you learn things with the best instructors in the country. As a result, CAC has shone as the most successful and trustworthy language preparation center that fully leverage your language skills. 
                 </p>
                 <button type="button" class="btn b_color"><a href="student_counselling.php">Explore</a></button>
             </div>

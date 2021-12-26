@@ -61,7 +61,7 @@
             <div class="col-md-8">
             <h6 class="text_color">3. JLPT – N4/ NAT- TEST 4Q</h6>
             <p>
-            This is an upper basic level course. The 2.	JLPT- N5/ NAT- TEST 5Q graduates or students with basic language proficiency with recent practice of 150 credit hours course can apply for this course. This course will focus on Japanese Language proficiency test (JLPT – N4)/ or NAT- TEST – 4Q which covers the advance elementary grammar, about 320 Kanji, including N5 Kanji and 2000 vocabularies.  With this level student would be able to general communication and sharing ideas, and they also would become able to read and understand passages on familiar daily topic written with basic vocabulary and Kanji.
+                This is an upper basic level course. The 2.	JLPT- N5/ NAT- TEST 5Q graduates or students with basic language proficiency with recent practice of 150 credit hours course can apply for this course. This course will focus on Japanese Language proficiency test (JLPT – N4)/ or NAT- TEST – 4Q which covers the advance elementary grammar, about 320 Kanji, including N5 Kanji and 2000 vocabularies.  With this level student would be able to general communication and sharing ideas, and they also would become able to read and understand passages on familiar daily topic written with basic vocabulary and Kanji.
             </p>
             <ul>
                 <li><strong> Courses Begin:  As per demand with the small group </strong></li>
@@ -80,15 +80,12 @@
             <h6 class="text_color">5. JLPT-N2/NAT-TEST 2Q </h6>
             <p>
             This is the upper-intermediate level. In this course, learners become able to read materials written clearly on a variety of topics, such as articles and commentaries in newspapers and magazines as well as simple critiques and comprehend their contents.
-The learners also become more proficient in their ability to comprehend orally presented materials such as coherent conversations and news reports, spoken at nearly natural speed in everyday situations as well as in a variety of settings, and is able to follow their ideas and comprehend their contents. 
+            The learners also become more proficient in their ability to comprehend orally presented materials such as coherent conversations and news reports, spoken at nearly natural speed in everyday situations as well as in a variety of settings, and is able to follow their ideas and comprehend their contents. 
             </p>
-
             <h6 class="text_color">6. JLPT-N1/NAT-TEST 1Q </h6>
             <p>
-            This is the most advanced course for the Japanese language for foreigners. With the completion of this course, learners master to read writings with logical complexity and/or abstract writings on a variety of topics, such as newspaper editorials and critiques, and comprehend both their structures and contents.
-
-The mastering of Japanese language listening is rendered with this course. The learners can comprehend orally presented materials such as coherent conversations, news reports, and lectures, spoken at natural speed in a broad variety of settings, and is able to follow their ideas and comprehend their contents comprehensively. 
-
+                This is the most advanced course for the Japanese language for foreigners. With the completion of this course, learners master to read writings with logical complexity and/or abstract writings on a variety of topics, such as newspaper editorials and critiques, and comprehend both their structures and contents.
+                The mastering of Japanese language listening is rendered with this course. The learners can comprehend orally presented materials such as coherent conversations, news reports, and lectures, spoken at natural speed in a broad variety of settings, and is able to follow their ideas and comprehend their contents comprehensively. 
             </p>
             </div>
             <div class="col-md-4 side-form">
@@ -133,13 +130,10 @@ The mastering of Japanese language listening is rendered with this course. The l
                             </form>
                         </div>
                     </div>
-                    
-                    
                 </div>
             </div>
         </div>
-        
-        <div class="row mt-2">
+        <div class="row mt-2 pl-3">
             <h3 class="text_color">Korean Language </h3>
             <p>TOPIK, Test of Proficiency in Korean, is a written test designed to measure the ability of non-native speakers for expression and comprehension in the Korean language. It aims to promote the Korean language by officially evaluating non-native Korean language speakers’ language proficiency. </p>
             <p>TOPIK test measures proficiency in reading, writing, and listening comprehension in the Korean language.  The test has three different levels: Beginner, Intermediate and Advanced.  Further accuracy is expressed through six grades, two matched to each level to evaluate proficiency.</p>
@@ -154,7 +148,7 @@ The mastering of Japanese language listening is rendered with this course. The l
                 </ul>
         </div>
 
-        <div class="row mt-2">
+        <div class="row mt-2 pl-3">
             <h3 class="text_color">English Language </h3>
             <p>Besides test preparation classes for English, i.e. IELTS, TOEFL and PTE, Career Achievers Consultancy also runs classes for English learners. Our experienced teachers are always committed to make you fly high. We have for basic, intermediate, and advance level English classes for those who want to achieve better proficiency and command over English language. </p>
             <p>We offer distinct courses on: </p>
@@ -181,7 +175,7 @@ The mastering of Japanese language listening is rendered with this course. The l
                     <h5 class="card-title text-center text_color"><strong>Student Counselling</strong></h5>
                     <p class="card-text">The decision-making process is always a challenge for new students trying to pursue 
                         higher study in abroad...</p>
-                    <button class="btn btn-sm button_color text-white">Know more</button>
+                    <button class="btn btn-sm button_color text-white float-right">Know more</button>
                     <!-- <p class="card-text"><small class="text-muted">2022-04-18 &nbsp;|&nbsp; <a href="index.php"><u>Events</u></a></small></p> -->
                 </div>
             </div>
@@ -190,7 +184,7 @@ The mastering of Japanese language listening is rendered with this course. The l
                 <div class="card-body">
                     <h5 class="card-title text-center text_color"><strong>Application Process Guidance</strong> </h5>
                     <p class="card-text">After you make your mind to study in a particular university and program, we help you...</p>
-                    <button class="btn btn-sm button_color text-white">Know more</button>
+                    <button class="btn btn-sm button_color text-white float-right">Know more</button>
                 </div>
             </div>
             <div class="card">
@@ -198,7 +192,7 @@ The mastering of Japanese language listening is rendered with this course. The l
                 <div class="card-body">
                     <h5 class="card-title text-center text_color"><strong>Language Classes</strong></h5>
                     <p class="card-text">The decision-making process is always a challenge for new students trying to pursue higher study in abroad...</p>
-                    <button class="btn btn-sm button_color text-white">Know more</button>
+                    <button class="btn btn-sm button_color text-white float-right">Know more</button>
                 </div>
             </div>
             <div class="card">
@@ -206,7 +200,7 @@ The mastering of Japanese language listening is rendered with this course. The l
                 <div class="card-body">
                     <h5 class="card-title text-center text_color"><strong>Test Preparation</strong></h5>
                     <p class="card-text">Nepali students aspiring for abroad study at an English-speaking university will be required to sit...</p>
-                    <button class="btn btn-sm button_color text-white">Know more</button>
+                    <button class="btn btn-sm button_color text-white float-right">Know more</button>
                 </div>
             </div>
         </div>

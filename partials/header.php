@@ -45,16 +45,18 @@
           <div class="col-md-5">Mail</div> -->
 
           <div class="col-lg-offset-2"></div>
-          <div class="col d-flex justify-content-end">
-            <a href="tel: 01-947594"><i class="fas fa-phone-alt text_color"></i>+9779811111111</a>
+          <div class="col d-flex justify-content-end p-0">
+            <a href="tel: 01-947594">+9779811111111</a>
           </div>
           <div class="col d-flex justify-content-center align-item-center">
-            <a href="mailto:contact@sewatech.com.np"><i class="fas fa-envelope text_color"></i> mail.consult@gmail.com</a>
+            <a href="mailto:contact@sewatech.com.np">mail.consult@gmail.com</a>
           </div>
 
-          <!-- <div class="col-md-1 offset"></div>
-          <div class="col-md-3">phone</div>
-          <div class="col-md-3">mail</div> -->
+        <!-- 
+            <div class="col-md-1 offset"></div>
+            <div class="col-md-3">phone</div>
+            <div class="col-md-3">mail</div>
+         -->
         </div>
       </div>
       <div class="col-md-6">
@@ -80,7 +82,7 @@
     <div class="brand-logo">
       <a class="logo p-5" href="#"><img src="./images/logo.png" alt="Logo"></a>
     </div>
-    <a href="#" class="toggle-button">
+    <a href="#" class="toggle-button mt-4">
       <span class="bar"></span>
       <span class="bar"></span>
       <span class="bar"></span>

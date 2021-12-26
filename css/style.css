@@ -79,9 +79,6 @@ h2::after {
 	text-transform: uppercase;
 	color: #02073f;
 }
-.carousel .carousel-indicators {
-	bottom: -70px;
-}
 .carousel-indicators li, .carousel-indicators li.active {
 	width: 20px;
 	height: 20px;
