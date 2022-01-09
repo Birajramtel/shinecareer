@@ -115,3 +115,9 @@ h2::after {
 .bg_color_head{
 	background-color: #064160;
 }
+.footer_text_color{
+	color: #fff;
+}
+.footer_text_color:hover{
+	color: #f99904;
+}

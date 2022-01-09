@@ -232,9 +232,7 @@
             <div class="col-md-6 service-description mt-0">
                 <div class="service-exerpt">
                     <h2 class="text_color p-0"><strong>Who we are?</strong></h2>
-                    <div class="embed-responsive embed-responsive-16by9 d-block d-md-none">
-                        <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/nWwpyclIEu4" allowfullscreen></iframe>
-                    </div>
+                        <img src="./images/who_we_are.jpg" class="d-block d-md-none" alt="">
                     <p>
                         Lorem Ipsum is simply dummy text of the printing and typesetting industry. 
                         Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, 
@@ -245,10 +243,7 @@
                 </div>
             </div>
             <div class="col-md-6 d-flex justify-content-center">
-                <!-- <img src="../images/services-1.png" alt=""> -->
-                    <div class="embed-responsive embed-responsive-16by9 d-none d-md-block">
-                        <iframe class="embed-responsive-item d-none d-md-block img-fluid" src="https://www.youtube.com/embed/nWwpyclIEu4" allowfullscreen></iframe>
-                    </div>
+                <img src="./images/who_we_are.jpg" class="d-none d-md-block" alt="">
             </div>
         </div>
         <div class="row mt-2">

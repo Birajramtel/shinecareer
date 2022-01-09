@@ -17,9 +17,9 @@
           <div class="col-md-4">
             <h3>Quick Links</h3>
             <ul>
-              <li><a href="#">Test Preparation</a></li>
-              <li><a href="#">Language classes</a></li>
-              <li>Book Mock Test
+              <li><a href="#" class="footer_text_color">Test Preparation</a></li>
+              <li><a href="#" class="footer_text_color">Language classes</a></li>
+              <li class="footer_text_color">Book Mock Test
                 <div class="input-group mb-3 w-75">
                   <input type="text" class="form-control mr-2" placeholder="Your email" aria-label="Recipient's username"
                     aria-describedby="button-addon2" />
@@ -33,9 +33,9 @@
           <div class="col-md-4">
             <h3>Contact</h3>
             <ul>
-              <li>Suite 601, 46 Market Street , Baneshwor, Ktm</li>
-              <li><a href="Tel: +61 458395800">Tel: +61 458395800</a></li>
-              <li><a href="Mail: info@consult.com">Mail: info@consult.com</a></li>
+              <li class="footer_text_color">Suite 601, 46 Market Street , Baneshwor, Ktm</li>
+              <li><a href="Tel: +61 458395800" class="footer_text_color">Tel: +61 458395800</a></li>
+              <li><a href="Mail: info@consult.com" class="footer_text_color">Mail: info@consult.com</a></li>
             </ul>
           </div>
         </div>
