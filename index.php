@@ -232,7 +232,7 @@
             <div class="col-md-6 service-description mt-0">
                 <div class="service-exerpt">
                     <h2 class="text_color p-0"><strong>Who we are?</strong></h2>
-                        <img src="./images/who_we_are.jpg" class="d-block d-md-none" alt="">
+                        <img src="./images/who_we_are.jpg" class="d-block d-md-none img-fluid" alt="">
                     <p>
                         Lorem Ipsum is simply dummy text of the printing and typesetting industry. 
                         Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, 
